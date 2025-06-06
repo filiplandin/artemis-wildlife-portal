@@ -1,3 +1,7 @@
+# Step 0: install dependencies 
+Npm install
+# installs everything listed in your package.json (dotenv, vite, openai, express, etc.)
+
 # Step 1: Start the Backend (from  project root)
 	# It listens for POST requests at /api/chat
 node server.js
@@ -6,3 +10,9 @@ node server.js
 	# This starts Vite
 	# The frontend sends chat requests to the backend API.
 npm run dev
+
+
+node server.js
+npm run dev
+
+

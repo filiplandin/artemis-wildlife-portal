@@ -34,20 +34,59 @@
 </template> 
 
 <script>
-// top: import axios from "axios"
 import axios from "axios";
 
 export default {
-  // ... data, etc.
+  name: "Chatbot",
+  props: {
+    animal: {
+      type: String,
+      default: "Capybara"
+    }
+  },
+  data() {
+    return {
+      output_history: [],
+      isGettingRespons: false,
+      input_message: "",
+      showErrorMessages: false,
+      errorMessage: "",
+      text: "",
+      history: []
+    }
+  },
   methods: {
+    handleInput(event) {
+      this.input_message = event.target.value;
+    },
+    async sendMessage() {
+      if (!this.text.trim()) return;
+      this.showErrorMessages = false;
+      this.isGettingRespons = true;
+      this.input_message = this.text;
+      const user_input = this.text;
+      this.text = '';
+      try {
+        const completion = await this.chat(user_input);
+        this.isGettingRespons = false;
+        this.message = completion;
+        this.$nextTick(() => {
+          const anchor = document.getElementById("anchor");
+          if (anchor) anchor.scrollIntoView({ behavior: "smooth" });
+        });
+      } catch (err) {
+        this.isGettingRespons = false;
+        this.showErrorMessages = true;
+        this.errorMessage = "Error contacting the chatbot.";
+      }
+    },
     async chat(user_input) {
-      let bot_input = "you are still a " + this.animal + ", write answers with 2-3 sentences. " + user_input
+      let bot_input = "you are still a " + this.animal + ", write answers with 2-3 sentences. " + user_input;
       const messages = [
         {
           role: "user",
-          content:
-            "for this conversation, you are a " + this.animal + " and an expert on your own species, do not say that you are an AI. Be informative about your specific species and the family of species that you belong to. write in a cute way. Keep answers to one to three sentences. Thank you!",
-        },
+          content: "for this conversation, you are a " + this.animal + " and an expert on your own species, do not say that you are an AI. Be informative about your specific species and the family of species that you belong to. write in a cute way. Keep answers to one to three sentences. Thank you!"
+        }
       ];
       for (let [input_text, completion_text] of this.history) {
         messages.push({ role: "user", content: input_text });
@@ -65,15 +104,13 @@ export default {
         this.output_history.push([user_input, completion_text]);
         return completion_text;
       } catch (error) {
-        // ... error handling as before
+        throw error;
       }
-    },
-  },
+    }
+  }
 }
 </script>
 
-
-    
 <style scoped>
 
 .test {
