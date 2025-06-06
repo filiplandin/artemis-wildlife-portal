@@ -2,6 +2,7 @@
   <main>
     <h1>{{ animal }}</h1>
     <div id="chat-container">
+      <div class="welcome-message">{{ welcomeMessage }}</div>
       <div class="scroll">
         <div class="test"></div>
         <div v-for="message in this.output_history">
@@ -35,24 +36,27 @@
 
 <script>
 import axios from "axios";
+import lionImg from '../assets/img/lion.jpg';
 
 export default {
   name: "Chatbot",
   props: {
     animal: {
       type: String,
-      default: "Capybara"
+      default: "Lion"
     }
   },
   data() {
     return {
+      lionImg,
       output_history: [],
       isGettingRespons: false,
       input_message: "",
       showErrorMessages: false,
       errorMessage: "",
       text: "",
-      history: []
+      history: [],
+      welcomeMessage: "It seems the animal you matched with isn't available. But don't worry—you're now chatting with a Lion! Ask me anything about lions or the animal kingdom."
     }
   },
   methods: {
@@ -82,12 +86,18 @@ export default {
     },
     async chat(user_input) {
       let bot_input = "you are still a " + this.animal + ", write answers with 2-3 sentences. " + user_input;
-      const messages = [
-        {
-          role: "user",
-          content: "for this conversation, you are a " + this.animal + " and an expert on your own species, do not say that you are an AI. Be informative about your specific species and the family of species that you belong to. write in a cute way. Keep answers to one to three sentences. Thank you!"
-        }
-      ];
+      const messages = [];
+      // Special context if animal is "Lion" (the default) and history is empty
+      if (this.animal === "Lion" && this.history.length === 0) {
+        messages.push({
+          role: "system",
+          content: "You are a playful, knowledgeable Lion, the king of the savannah, and you love talking about lions and all wild animals. Respond in 2-3 sentences, engaging and fun!"
+        });
+      }
+      messages.push({
+        role: "user",
+        content: "for this conversation, you are a " + this.animal + " and an expert on your own species, do not say that you are an AI. Be informative about your specific species and the family of species that you belong to. write in a cute way. Keep answers to one to three sentences. Thank you!"
+      });
       for (let [input_text, completion_text] of this.history) {
         messages.push({ role: "user", content: input_text });
         messages.push({ role: "user", content: completion_text });
@@ -235,6 +245,26 @@ export default {
   border-radius: 50%;
 }
 
+.lion-image-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+.lion-image {
+  max-width: 220px;
+  border-radius: 1.2rem;
+  border: 4px solid #e67e22;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.12);
+}
+.lion-caption {
+  margin-top: 0.5rem;
+  font-size: 1.15rem;
+  color: #e67e22;
+  font-weight: bold;
+  text-align: center;
+}
+
 @keyframes blinker {
   50% {
     opacity: 0.25;
@@ -242,3 +272,11 @@ export default {
 }
 
 </style>
+
+.welcome-message {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: #e67e22;
+  font-weight: bold;
+}

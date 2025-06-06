@@ -1,18 +1,29 @@
-
 <template>
     <main>
         <!-- <h1>Landingpage</h1>-->
         <div class="textDiv">
-            <h2 class="easeInSlow">Do you have a favorite animal?</h2>
-            <h1 class="easeIn">Chat with your<br>Favorites Today!</h1>
-            <p class="easeInSlow">But it does not have to be your favorite animal it could be any animal you want to get to know better.</p>
-            <router-link class="buttonToPage easeInSlow" to="/Swipe"><button>Swipe today!</button></router-link>
-        </div>
+            <h1 class="easeInSlow">The Animal Kingdom Awaits</h1>
+                <!-- <h2 class="easeIn">Do you have a favorite animal?</h2> -->
+            <!-- <h2 class="easeInSlow">Do you have a favorite animal?</h2> -->
+            <!-- <h1 class="easeIn">Discover. Chat. Learn.<br><span class="animal-highlight">The Animal Kingdom Awaits</span></h1> -->
+            <!-- <h1 class="easeIn">Chat with your<br>Favorites Today!</h1> -->
+            <!-- <h1 class="easeIn">The Animal Kingdom Awaits</h1> -->
+            <!-- <p class="easeInSlow">Learn wild facts, and get to know the wonders of nature<br>—one question at a time.</p> -->
+            <p class="easeInSlow">Do you have a favorite animal?<br>Meet the wonders of nature!<br>—one question at a time.</p>
+            <router-link class="buttonToPage easeInSlow" to="/Swipe"><button>Start your Animal Chat Journey with a Swipe!</button></router-link>
+            <div class="project-desc">
+                <span>
+                     <br><br><br><br><br><br><br><br><br><br>
+                     An interactive web app built with Vue, OpenAI, and a touch of wildlife magic.
+                </span>
+            </div>
+    <!-- <img src="@/assets/img/lion.jpg" alt="Lion Chat" class="home-lion-img" /> -->
+         </div>
 
         <HomeImage class="imges"></HomeImage>
         
 
-        <!-- <div class="bubble"></div> -->
+        <!-- <div class="bubble">An interactive web app built with Vue, OpenAI, and a touch of wildlife magic. Meet Leo, your friendly Lion expert🦁</div> -->
         <!-- <img src="src/assets/img/jonah-pettrich-JY6SQqlJLXE-unsplash.jpg" alt=""> -->
         <!-- <img src="src/assets/img/nick-fewings-2qXNT7LMfpY-unsplash.jpg" alt=""> -->
     </main>
