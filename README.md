@@ -19,6 +19,8 @@ Full-stack LLM-integrated Wildlife web app developed by a team of 8 through 5 sp
 
 ![alt text](image.png)
 
+<img width="1053" alt="cow-front-page" src="https://github.com/user-attachments/assets/ce045237-caca-48d1-8450-8094c7778a28" />
+
 ## Agile Software Project | DAT257 | Chalmers University
 This project is an interactive web application designed to raise awareness about endangered species in Sweden. Developed collaboratively following agile methodologies, our product aligns closely with the UN Sustainable Development Goal 15—Life on Land, specifically targeting biodiversity conservation.
 
