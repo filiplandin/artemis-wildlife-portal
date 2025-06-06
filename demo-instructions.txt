@@ -1,0 +1,8 @@
+# Step 1: Start the Backend (from  project root)
+	# It listens for POST requests at /api/chat
+node server.js
+
+# Step 2: Start the Frontend (separate terminal)
+	# This starts Vite
+	# The frontend sends chat requests to the backend API.
+npm run dev

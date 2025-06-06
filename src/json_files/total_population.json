@@ -1,0 +1,6267 @@
+[
+    {
+        "binomial": "Acanthis_flammea",
+        "common_name": "Redpoll",
+        "description": "The common redpoll is a small brownish-grey finch with dark streaks and a bright red patch on its forehead. It has a black bib and two pale stripes on the wings. Males often have their breasts suffused with red. It is smaller, browner and more streaked than the generally similar Arctic redpoll, adults measuring between 11.5 and 14 centimetres (4.5 and 5.5 in) in length and weighing between 12 and 16 grams (0.42 and 0.56 oz). Wingspan ranges from 7.5 to 8.7 in (19-22 cm).[10] The rump is streaked and there is a broad dark brown streak across the vent. It has brown legs, dark-tipped yellowish bills and dark brown irises",
+        "population_description": "The range of the common redpoll extends through northern Europe and Asia to northern North America, Greenland and Iceland. It is a partial migrant, moving southward in late autumn and northward again in March and April. Its typical habitat is boreal forests of pines, spruces and larches. It feeds mainly on seeds, principally birch and alder seeds in the winter. \nThe common redpoll builds its nest low down in a tree or bush. The nest has an outer layer of thin twigs, a middle layer of root fibres, fragments of juniper bark and lichens and an inner layer of down, willow buds and reindeer hair. Three to seven speckled eggs are laid and incubated by the female. They hatch after about 11 days and the young fledge in about a further 13 days",
+        "life_span": "2 - 3 years",
+        "weight": "12 - 16 g",
+        "size": "11.5 - 14 cm",
+        "data": {
+            "population": [
+                557.74418675,
+                1769.270260875,
+                311.8350762857143,
+                6219.0924212857135,
+                431.7447842857143,
+                662.8762625714286,
+                333.7855684285715,
+                605.7896054444444,
+                7976.681045444446
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1990",
+                "1994",
+                "1995"
+            ]
+        },
+        "unit": "Count (total bird-days)"
+    },
+    {
+        "binomial": "Accipiter_nisus",
+        "common_name": "Eurasian sparrowhawk",
+        "data": {
+            "population": [
+                136.4953382,
+                126.20517883333333,
+                152.406771,
+                149.34964557142857,
+                116.19124722222222,
+                122.86494400000001,
+                112.88773209999997,
+                132.74028388888888,
+                119.44186211111112
+            ],
+            "years": [
+                "1981",
+                "1983",
+                "1984",
+                "1985",
+                "1990",
+                "1994",
+                "2002",
+                "2005",
+                "2006"
+            ]
+        },
+        "unit": "Number seen during autumn migration"
+    },
+    {
+        "binomial": "Acrocephalus_arundinaceus",
+        "common_name": "Great reed warbler",
+        "data": {
+            "population": [
+                90.383618,
+                119.27601,
+                115.345947,
+                276.345205,
+                241.94336533333333,
+                170.72370975,
+                154.6799665,
+                152.23516475,
+                53.86626175
+            ],
+            "years": [
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1998"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Acrocephalus_palustris",
+        "common_name": "Marsh warbler",
+        "data": {
+            "population": [
+                125.374624,
+                143.03191,
+                153.221621,
+                137.084264,
+                149.705892,
+                129.797659,
+                120.664813,
+                136.610036,
+                121.347424
+            ],
+            "years": [
+                "1984",
+                "1985",
+                "1986",
+                "1988",
+                "1989",
+                "1990",
+                "1995",
+                "1997",
+                "1998"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Acrocephalus_schoenobaenus",
+        "common_name": "Sedge warbler",
+        "data": {
+            "population": [
+                100.0,
+                84.613795,
+                76.391425,
+                79.670178,
+                78.966812,
+                90.553168,
+                75.074571,
+                75.030321,
+                72.988748
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1984",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1992",
+                "2011"
+            ]
+        },
+        "unit": "breeding pairs"
+    },
+    {
+        "binomial": "Acrocephalus_scirpaceus",
+        "common_name": "Common reed warbler",
+        "data": {
+            "population": [
+                191.1113916,
+                252.98808300000002,
+                234.5576962,
+                247.21957360000002,
+                256.9780722,
+                216.1914925,
+                229.52497583333334,
+                247.18878679999997,
+                139.7589954
+            ],
+            "years": [
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2004"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Actitis_hypoleucos",
+        "common_name": "Common sandpiper",
+        "data": {
+            "population": [
+                110.83738966666665,
+                106.12376385714286,
+                111.14352425,
+                106.21330499999999,
+                143.221936,
+                145.854611,
+                183.31238100000002,
+                192.0819075,
+                202.1660015
+            ],
+            "years": [
+                "1982",
+                "2004",
+                "2007",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "index approximation"
+    },
+    {
+        "binomial": "Aegithalos_caudatus",
+        "common_name": "Long-tailed tit",
+        "data": {
+            "population": [
+                115.578571,
+                138.641412,
+                126.012515,
+                132.024757,
+                128.895003,
+                212.049192,
+                107.106328,
+                137.50078720000002,
+                192.845717
+            ],
+            "years": [
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1988",
+                "1989",
+                "1990",
+                "1994",
+                "2019"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+
+    {
+        "binomial": "Alauda_arvensis",
+        "common_name": "Eurasian skylark",
+        "data": {
+            "population": [
+                950157.1666666666,
+                1141817.9561575,
+                1025101.6758025,
+                883469.9867696668,
+                797338.2099654286,
+                671530.2626985714,
+                825751.9913557143,
+                762537.1757733751,
+                703786.578130875
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1986",
+                "1989",
+                "1990",
+                "1991"
+            ]
+        },
+        "unit": "Mean monthly count"
+    },
+    {
+        "binomial": "Alcedo_atthis",
+        "common_name": "Common kingfisher",
+        "data": {
+            "population": [
+                46.72775,
+                53.317569666666664,
+                89.23260375000001,
+                55.908131,
+                51.075697250000005,
+                97.398399,
+                96.466107,
+                59.822145,
+                64.246598
+            ],
+            "years": [
+                "1998",
+                "1999",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Alces_americanus",
+        "common_name": "Moose",
+        "data": {
+            "population": [
+                23047.2,
+                27115.2,
+                34388.75,
+                23400.833333333332,
+                24451.5,
+                24623.0,
+                29698.8,
+                36072.75,
+                29119.25,
+                38150.666666666664
+            ],
+            "years": [
+                "1986",
+                "1991",
+                "1992",
+                "1993",
+                "1995",
+                "1996",
+                "1999",
+                "2002",
+                "2013",
+                "2016"
+            ]
+        },
+        "unit": "Adult individuals (bulls and cows)"
+    },
+    {
+        "binomial": "Alosa_pseudoharengus",
+        "common_name": "Alewife",
+        "data": {
+            "population": [
+                6865.030760083333,
+                17586.527742857143,
+                2973.729715625,
+                85137.17475187499,
+                5812.945664125,
+                4127.054392166668,
+                127446.88250571428,
+                2998.640111166667
+            ],
+            "years": [
+                "1981",
+                "2000",
+                "2004",
+                "2007",
+                "2011",
+                "2013",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Catch per tow"
+    },
+    {
+        "binomial": "Alosa_sapidissima",
+        "common_name": "American shad",
+        "data": {
+            "population": [
+                399036.63442537497,
+                406458.88688825,
+                760002.71,
+                543344.37357625,
+                362295.6042111667,
+                454656.27300000004,
+                963755.7538947499,
+                375501.38698340004
+            ],
+            "years": [
+                "1984",
+                "2000",
+                "2001",
+                "2008",
+                "2012",
+                "2013",
+                "2014",
+                "2016"
+            ]
+        },
+        "unit": "Annual geometric mean catch per unit effort"
+    },
+    {
+        "binomial": "Ambloplites_rupestris",
+        "common_name": "Rock bass",
+        "data": {
+            "population": [
+                14.69,
+                10.09,
+                7.06,
+                5.255,
+                5.53,
+                4.76,
+                7.53,
+                6.86
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1984",
+                "1986",
+                "1987",
+                "1989",
+                "1991"
+            ]
+        },
+        "unit": "Catch per gillnet"
+    },
+    {
+        "binomial": "Ameiurus_nebulosus",
+        "common_name": "Brown bullhead",
+        "data": {
+            "population": [
+                43.0453,
+                22.127919999999996,
+                72.40766666666667,
+                29.21415,
+                72.33527142857143,
+                40.69891428571429,
+                43.99435,
+                112.17931428571428
+            ],
+            "years": [
+                "2001",
+                "2002",
+                "2006",
+                "2008",
+                "2010",
+                "2012",
+                "2014",
+                "2015"
+            ]
+        },
+        "unit": "Mean catch per trap net"
+    },
+    {
+        "binomial": "Anas_platyrhynchos",
+        "common_name": "Mallard",
+        "data": {
+            "population": [
+                103227.67318518518,
+                118832.13828583999,
+                105206.95149244,
+                101810.16141677777,
+                99559.37649674286,
+                102743.78253994735,
+                108518.56333439474,
+                115339.81290958333,
+                101758.82068603333
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1991",
+                "1993",
+                "1999",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Anguilla_anguilla",
+        "common_name": "European eel",
+        "data": {
+            "population": [
+                25909.434999999998,
+                16804.5525,
+                30615.56666666667,
+                20275.100000000002,
+                41915.96666666667,
+                26445.63333333333,
+                15503.0,
+                46475.666666666664
+            ],
+            "years": [
+                "2007",
+                "2008",
+                "2010",
+                "2012",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ]
+        },
+        "unit": "g/hr"
+    },
+    {
+        "binomial": "Anguilla_rostrata",
+        "common_name": "American eel",
+        "data": {
+            "population": [
+                50936.644,
+                149626.686,
+                202906.008,
+                218779.02833333332,
+                107424.88500000001,
+                133572.06714285715,
+                77571.06666666667,
+                43089.355
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1987",
+                "1989"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Anoplopoma_fimbria",
+        "common_name": "Sablefish",
+        "data": {
+            "population": [
+                138289.5,
+                144979.91999999998,
+                159409.74,
+                170328.62,
+                168299.7,
+                160901.16,
+                158409.53999999998,
+                146384.26
+            ],
+            "years": [
+                "1981",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989"
+            ]
+        },
+        "unit": "biomass in metric tonnes"
+    },
+    {
+        "binomial": "Anthus_pratensis",
+        "common_name": "Meadow pipit",
+        "data": {
+            "population": [
+                3909.6666666666665,
+                7233.673204,
+                4381.524218,
+                4790.4545763333335,
+                6929.396021333334,
+                2777.775995666667,
+                3523.2552303333337,
+                6106.413865666666,
+                3516.897730666667
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Anthus_trivialis",
+        "common_name": "Tree pipit",
+        "data": {
+            "population": [
+                5479.569,
+                1733.55595425,
+                2176.0770190000003,
+                3547.0974647499997,
+                3897.7389885000002,
+                5520.943764,
+                3560.9531899999997,
+                7458.01019475,
+                2931.80797
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Number of tree pipits per 100000 birds ringed"
+    },
+    {
+        "binomial": "Aplodinotus_grunniens",
+        "common_name": "Freshwater drum",
+        "data": {
+            "population": [
+                8.406466666666667,
+                12.317775000000001,
+                17.5419,
+                13.51976,
+                35.002159999999996,
+                17.3406,
+                10.09345,
+                13.3716
+            ],
+            "years": [
+                "1998",
+                "2001",
+                "2005",
+                "2006",
+                "2007",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "Mean catch per trap net"
+    },
+    {
+        "binomial": "Apus_apus",
+        "common_name": "Common swift",
+        "data": {
+            "population": [
+                102.5,
+                126.0505495,
+                103.13618550000001,
+                110.397585,
+                104.586926,
+                111.3695215,
+                121.990518,
+                103.6377,
+                109.904041
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1986",
+                "1987",
+                "1998",
+                "1999",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Ardea_cinerea",
+        "common_name": "Grey heron",
+        "data": {
+            "population": [
+                1050.5834897500001,
+                1054.6757226666666,
+                1247.92727785,
+                1237.1184033461539,
+                1681.3342725,
+                691.1512115263158,
+                2334.424029058824,
+                498.02453013333337,
+                429.9693158
+            ],
+            "years": [
+                "1981",
+                "1985",
+                "1989",
+                "1994",
+                "2000",
+                "2003",
+                "2007",
+                "2008",
+                "2011"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Atheresthes_stomias",
+        "common_name": "Arrowtooth flounder",
+        "data": {
+            "population": [
+                507985.44000000006,
+                530702.3400000001,
+                500202.6,
+                533943.1,
+                471382.888293,
+                481846.45869457145,
+                496229.76666666666,
+                497583.0
+            ],
+            "years": [
+                "1994",
+                "1997",
+                "1999",
+                "2001",
+                "2006",
+                "2008",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "biomass in metric tonnes (age 1+)"
+    },
+    {
+        "binomial": "Bombycilla_garrulus",
+        "common_name": "Bohemian waxwing",
+        "data": {
+            "population": [
+                124.91239875,
+                227.10544175,
+                169.03678625,
+                152.210869,
+                310.549133,
+                462.767897,
+                712.885727,
+                414.562028,
+                337.88795
+            ],
+            "years": [
+                "2003",
+                "2004",
+                "2006",
+                "2013",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Bonasa_bonasia",
+        "common_name": "Hazel grouse",
+        "data": {
+            "population": [
+                105.596534,
+                88.65556260000001,
+                89.18462,
+                97.202872,
+                93.988089,
+                103.152719,
+                92.069845,
+                89.989809,
+                100.720596
+            ],
+            "years": [
+                "1982",
+                "1988",
+                "1997",
+                "1998",
+                "2002",
+                "2003",
+                "2004",
+                "2006",
+                "2011"
+            ]
+        },
+        "unit": "Annual population index"
+    },
+    {
+        "binomial": "Buteo_buteo",
+        "common_name": "Eurasian buzzard",
+        "data": {
+            "population": [
+                123.75310074999999,
+                7502.987126833333,
+                125.51391053333333,
+                125.2480535,
+                135.48592349999998,
+                122.60371549999999,
+                135.162416,
+                126.520933,
+                252.266359
+            ],
+            "years": [
+                "1995",
+                "1999",
+                "2002",
+                "2011",
+                "2012",
+                "2014",
+                "2015",
+                "2017",
+                "2019"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Calcarius_lapponicus",
+        "common_name": "Lapland longspur",
+        "data": {
+            "population": [
+                124.0,
+                13.0,
+                18.0,
+                7.0,
+                61.0,
+                177.63031366666667,
+                602.671172,
+                144.31064733333332,
+                71.94520324999999
+            ],
+            "years": [
+                "1980",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2003",
+                "2004",
+                "2005",
+                "2007"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Canis_lupus",
+        "common_name": "Grey wolf",
+        "data": {
+            "population": [
+                377.6661904761905,
+                313.6276923076923,
+                371.5,
+                493.8333333333333,
+                461.9,
+                416.1,
+                452.0,
+                519.75,
+                619.3333333333334,
+                543.7142857142857
+            ],
+            "years": [
+                "1980",
+                "2000",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Capreolus_capreolus",
+        "common_name": "European roe deer",
+        "data": {
+            "population": [
+                33079.505,
+                33931.565,
+                35595.61111111111,
+                37558.97583333334,
+                34135.530000000006,
+                33311.00133333333,
+                31904.784,
+                32589.665714285715,
+                37172.085774499996
+            ],
+            "years": [
+                "1984",
+                "1986",
+                "1987",
+                "1988",
+                "1990",
+                "1991",
+                "1992",
+                "1994",
+                "2005"
+            ]
+        },
+        "unit": "Percentage of population change relative to population"
+    },
+    {
+        "binomial": "Carduelis_carduelis",
+        "common_name": "European goldfinch",
+        "data": {
+            "population": [
+                100369.3501045,
+                61155.018275333336,
+                6418.209626666667,
+                4062.9553926666667,
+                10475.96964,
+                15878.11722375,
+                12341.770282,
+                4397.4597304,
+                14696.108942285715
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1986",
+                "1988",
+                "1990",
+                "1991",
+                "2006"
+            ]
+        },
+        "unit": "Mean monthly count"
+    },
+    {
+        "binomial": "Caretta_caretta",
+        "common_name": "Loggerhead sea turtle",
+        "data": {
+            "population": [
+                647.866,
+                539.8066666666667,
+                613.6159166666666,
+                576.8142967741935,
+                535.9703787878788,
+                631.9536485714286,
+                1198.1192222222223,
+                1072.5261111111113,
+                1911.8513333333333
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1986",
+                "1991",
+                "1992",
+                "1995",
+                "2007",
+                "2008",
+                "2009"
+            ]
+        },
+        "unit": "Number of nests"
+    },
+    {
+        "binomial": "Carpodacus_erythrinus",
+        "common_name": "Common rosefinch",
+        "data": {
+            "population": [
+                129.583985,
+                129.873267,
+                139.116542,
+                134.598011,
+                151.04233,
+                145.076218,
+                138.862799,
+                158.710203,
+                131.667312
+            ],
+            "years": [
+                "1988",
+                "1989",
+                "1990",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1998"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Catostomus_commersonii",
+        "common_name": "White sucker",
+        "data": {
+            "population": [
+                5.92,
+                5.21,
+                4.34,
+                2.59,
+                3.3175000000000003,
+                3.2108333333333334,
+                5.029866666666667,
+                3.73365
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1990",
+                "1995",
+                "1996",
+                "2001",
+                "2017"
+            ]
+        },
+        "unit": "Catch per trawl"
+    },
+    {
+        "binomial": "Certhia_familiaris",
+        "common_name": "Eurasian treecreeper",
+        "data": {
+            "population": [
+                87.08469466666666,
+                84.07590200000001,
+                86.27926566666667,
+                87.434742,
+                84.684494,
+                81.709375,
+                86.884229,
+                86.331753,
+                85.506912
+            ],
+            "years": [
+                "1984",
+                "1993",
+                "2001",
+                "2004",
+                "2005",
+                "2008",
+                "2012",
+                "2014",
+                "2017"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Cervus_elaphus",
+        "common_name": "Red deer",
+        "data": {
+            "population": [
+                9071.729475,
+                9302.02175,
+                8970.675228571428,
+                8838.469959999999,
+                16072.93241891892,
+                18620.213621860465,
+                9868.233813125,
+                9086.411203529411,
+                10721.172238750001
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1984",
+                "1985",
+                "1990",
+                "2000",
+                "2002",
+                "2004",
+                "2005"
+            ]
+        },
+        "unit": "Estimated number of individuals"
+    },
+    {
+        "binomial": "Cettia_cetti",
+        "common_name": "Cetti's warbler",
+        "data": {
+            "population": [
+                78.00223733333333,
+                174.75286499999999,
+                353.6751706666667,
+                337.0115485,
+                119.70247683333332,
+                260.15262099999995,
+                279.0074765,
+                282.8308225,
+                297.700351
+            ],
+            "years": [
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "2006",
+                "2013",
+                "2014",
+                "2015",
+                "2017"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Chloris_chloris",
+        "common_name": "European greenfinch",
+        "data": {
+            "population": [
+                23102.16806675,
+                41169.4944225,
+                21040.296992,
+                9137.8452042,
+                9098.134509,
+                17540.8397388,
+                17840.6525864,
+                13723.976531499999,
+                12739.177011999998
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1988",
+                "2006",
+                "2007"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Ciconia_ciconia",
+        "common_name": "White stork",
+        "data": {
+            "population": [
+                562.0466313225807,
+                518.208746,
+                613.7634281764705,
+                883.0310337777778,
+                738.9155308780488,
+                661.551502117647,
+                764.9573194000001,
+                994.0305566153846,
+                4726.600853
+            ],
+            "years": [
+                "1984",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "2005",
+                "2006",
+                "2008",
+                "2015"
+            ]
+        },
+        "unit": "number of individuals"
+    },
+    {
+        "binomial": "Circus_aeruginosus",
+        "common_name": "Western marsh-harrier",
+        "data": {
+            "population": [
+                290.3545835,
+                263.5442585,
+                406.364982,
+                421.900513,
+                400.837288,
+                432.058001,
+                489.98187,
+                373.638417,
+                388.912061
+            ],
+            "years": [
+                "2010",
+                "2011",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Cisticola_juncidis",
+        "common_name": "Zitting cisticola",
+        "data": {
+            "population": [
+                1.0,
+                46.0,
+                68.5,
+                51.0,
+                59.333333333333336,
+                65.0,
+                72.0,
+                33.0837525,
+                52.436543
+            ],
+            "years": [
+                "1990",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1998",
+                "2000",
+                "2016"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Clupea_harengus",
+        "common_name": "Atlantic herring",
+        "data": {
+            "population": [
+                3060011.307848969,
+                2144846.279867788,
+                2910158.4387930343,
+                2676081.91996115,
+                2681727.983184,
+                4213081.203975417,
+                2918014.2987810834,
+                5687212.576239455,
+                5992480.913164727
+            ],
+            "years": [
+                "1999",
+                "2003",
+                "2004",
+                "2010",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Number of fish per fishing day"
+    },
+    {
+        "binomial": "Coccothraustes_coccothraustes",
+        "common_name": "Hawfinch",
+        "data": {
+            "population": [
+                113.52705449999999,
+                122.151814,
+                143.163353,
+                137.836843,
+                113.367632,
+                116.365139,
+                118.4844,
+                117.336822,
+                113.642903
+            ],
+            "years": [
+                "1990",
+                "1995",
+                "1996",
+                "1997",
+                "2013",
+                "2015",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Columba_livia",
+        "common_name": "Rock dove",
+        "data": {
+            "population": [
+                16.842727272727274,
+                16.773636363636363,
+                24.613636363636363,
+                127.55583333333334,
+                31.111666666666675,
+                33.523466666666664,
+                24.679675000000003,
+                137.0167846153846
+            ],
+            "years": [
+                "1982",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2011"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Columba_oenas",
+        "common_name": "Stock dove",
+        "data": {
+            "population": [
+                90.63059566666668,
+                101.67668400000001,
+                98.72559933333334,
+                100.28052333333333,
+                174.37584833333335,
+                104.952281,
+                99.46183,
+                106.039809,
+                141.601369
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1984",
+                "1985",
+                "1988",
+                "1999",
+                "2000",
+                "2001",
+                "2019"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Columba_palumbus",
+        "common_name": "Common woodpigeon",
+        "data": {
+            "population": [
+                17230.314375,
+                32558.37251625,
+                16358.394015599999,
+                11165.943329,
+                9954.5472488,
+                17839.432892599998,
+                9437.202882399999,
+                12003.3348645,
+                19950.1225982
+            ],
+            "years": [
+                "1980",
+                "1984",
+                "1988",
+                "1989",
+                "1991",
+                "1992",
+                "1993",
+                "1995",
+                "2000"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Coregonus_clupeaformis",
+        "common_name": "Lake whitefish",
+        "data": {
+            "population": [
+                59.93333333333334,
+                115.75,
+                145.0,
+                195.9,
+                321.65,
+                476.7,
+                779.3,
+                739.2
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Catch per trawl"
+    },
+    {
+        "binomial": "Corvus_corax",
+        "common_name": "Common raven",
+        "data": {
+            "population": [
+                105.97822513043478,
+                104.160295,
+                105.68389388,
+                124.53683654166666,
+                117.61213312,
+                123.27282455999999,
+                126.80419783333332,
+                104.6988765,
+                202.21693
+            ],
+            "years": [
+                "2000",
+                "2001",
+                "2002",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2017",
+                "2019"
+            ]
+        },
+        "unit": "Number of individuals per km2"
+    },
+    {
+        "binomial": "Corvus_corone",
+        "common_name": "Carrion crow",
+        "data": {
+            "population": [
+                112.47780449999999,
+                119.016171,
+                122.1469685,
+                112.98209966666667,
+                118.08983733333334,
+                136.0345025,
+                136.1410355,
+                140.6105885,
+                124.488583
+            ],
+            "years": [
+                "1987",
+                "1989",
+                "1991",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2019"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Corvus_frugilegus",
+        "common_name": "Rook",
+        "data": {
+            "population": [
+                211.719521,
+                320.902941,
+                200.932682,
+                631.8042795,
+                626.6598965000001,
+                545.6003665000001,
+                1184.5862625,
+                1116.695547,
+                202.66562
+            ],
+            "years": [
+                "1987",
+                "1988",
+                "1989",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Corvus_monedula",
+        "common_name": "Eurasian jackdaw",
+        "data": {
+            "population": [
+                758.9314176666667,
+                919.4933383333333,
+                622.2515806666667,
+                776.632035,
+                656.600095,
+                682.254095,
+                1158.911174,
+                735.9660096666667,
+                881.1676363333332
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1988",
+                "1993",
+                "1994",
+                "1996",
+                "1998"
+            ]
+        },
+        "unit": "Number seen during autumn migration"
+    },
+    {
+        "binomial": "Cuculus_canorus",
+        "common_name": "Common cuckoo",
+        "data": {
+            "population": [
+                101.2470555,
+                96.206965,
+                100.010661,
+                98.3918195,
+                89.001792,
+                99.92818733333333,
+                99.587944,
+                110.373537,
+                110.881371
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1998",
+                "1999",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Cyanecula_svecica",
+        "common_name": "Bluethroat",
+        "data": {
+            "population": [
+                53.0,
+                49.5172475,
+                23.385962666666668,
+                40.707367,
+                35.130407999999996,
+                32.96159466666666,
+                30.23796333333333,
+                22.502083666666667,
+                18.673972
+            ],
+            "years": [
+                "1996",
+                "1997",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2004",
+                "2005",
+                "2006"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Cyanistes_caeruleus",
+        "common_name": "Eurasian blue tit",
+        "data": {
+            "population": [
+                237.07225440000002,
+                231.820721,
+                422.08305,
+                900.9312416666667,
+                556.4226832857142,
+                1604.0940151428572,
+                553.1666682857143,
+                283.5316998571428,
+                214.90093740000003
+            ],
+            "years": [
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1996",
+                "1997",
+                "1998",
+                "1999"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Cyanopica_cyanus",
+        "common_name": "Asian azure-winged magpie",
+        "data": {
+            "population": [
+                45.0,
+                11.0,
+                60.0,
+                57.2215595,
+                52.2955385,
+                67.8428765,
+                67.359597,
+                67.519084,
+                77.738724
+            ],
+            "years": [
+                "1994",
+                "1995",
+                "1998",
+                "1999",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Cygnus_olor",
+        "common_name": "Mute swan",
+        "data": {
+            "population": [
+                16725.682006142855,
+                16514.02780209091,
+                18048.1275157,
+                20243.6281914,
+                19306.740460727273,
+                20202.4539991,
+                17540.912595909092,
+                19559.0385672,
+                24143.8178056
+            ],
+            "years": [
+                "1982",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1999",
+                "2000",
+                "2001",
+                "2002"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Cyprinus_carpio",
+        "common_name": "Common carp",
+        "data": {
+            "population": [
+                6.363333333333333,
+                7.254985714285715,
+                13.45745,
+                7.9923,
+                3.6148333333333333,
+                6.823514285714286,
+                5.04212,
+                6.3358875
+            ],
+            "years": [
+                "1991",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2003",
+                "2009"
+            ]
+        },
+        "unit": "CPUE (no. of fish/30 mins)"
+    },
+    {
+        "binomial": "Delichon_urbicum",
+        "common_name": "Northern house martin",
+        "data": {
+            "population": [
+                1868.0,
+                1878.0408123333334,
+                925.2923179999999,
+                951.518474,
+                1015.1337853333333,
+                497.6668275,
+                558.425415,
+                424.794117,
+                470.45224875
+            ],
+            "years": [
+                "1980",
+                "1983",
+                "1984",
+                "1985",
+                "1988",
+                "1995",
+                "1996",
+                "1997",
+                "1998"
+            ]
+        },
+        "unit": "Number seen during autumn migration"
+    },
+    {
+        "binomial": "Dendrocopos_major",
+        "common_name": "Great spotted woodpecker",
+        "data": {
+            "population": [
+                86.238353,
+                96.92565066666667,
+                87.13418366666667,
+                101.94708266666667,
+                85.3494425,
+                85.9934695,
+                87.94980500000001,
+                86.059397,
+                179.973039
+            ],
+            "years": [
+                "1981",
+                "1996",
+                "1998",
+                "2001",
+                "2012",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Dissostichus_eleginoides",
+        "common_name": "Patagonian toothfish",
+        "data": {
+            "population": [
+                30698.0,
+                29140.0,
+                28444.0,
+                28319.5,
+                28174.5,
+                35666.0,
+                36346.0,
+                36547.0,
+                36836.0
+            ],
+            "years": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Number of individuals (millions)"
+    },
+    {
+        "binomial": "Dorosoma_cepedianum",
+        "common_name": "American gizzard shad",
+        "data": {
+            "population": [
+                811.4572019999999,
+                823.3846655,
+                1896.4984635,
+                1638.1840325,
+                1535.3170415,
+                1779.138798,
+                750.031397,
+                532.7835325000001
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1990",
+                "1991"
+            ]
+        },
+        "unit": "Stratified mean CPUE (450 ft monofilament gill ..."
+    },
+    {
+        "binomial": "Dryobates_minor",
+        "common_name": "Lesser spotted woodpecker",
+        "data": {
+            "population": [
+                100.0,
+                112.683418,
+                116.218484,
+                90.029841,
+                130.467777,
+                47.174438,
+                38.785887,
+                48.988312,
+                45.735921
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1989",
+                "1990",
+                "1991",
+                "1994",
+                "1996"
+            ]
+        },
+        "unit": "Number of pairs"
+    },
+    {
+        "binomial": "Dryocopus_martius",
+        "common_name": "Black woodpecker",
+        "data": {
+            "population": [
+                80.82235250000001,
+                90.9527326,
+                83.93084877777778,
+                82.9566896,
+                80.910157,
+                83.97738136363637,
+                86.08791681818182,
+                79.96382514285713,
+                138.377566
+            ],
+            "years": [
+                "1982",
+                "1996",
+                "1997",
+                "2001",
+                "2006",
+                "2007",
+                "2008",
+                "2010",
+                "2019"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Emberiza_calandra",
+        "common_name": "Corn bunting",
+        "data": {
+            "population": [
+                375.5,
+                332.7354685,
+                308.8793955,
+                174.44008833333336,
+                143.57802366666667,
+                117.25347633333332,
+                100.86391933333334,
+                88.52544433333333,
+                103.55996999999999
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1993"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Emberiza_citrinella",
+        "common_name": "Yellowhammer",
+        "data": {
+            "population": [
+                1133060.6,
+                1310333.5084806,
+                1170497.4276720001,
+                1061568.1147105999,
+                1071000.2374286,
+                1060609.2664078,
+                1150042.86544375,
+                1137541.665176,
+                1075044.61244575
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1985",
+                "1986",
+                "1989",
+                "1990",
+                "1991"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Emberiza_hortulana",
+        "common_name": "Ortolan bunting",
+        "data": {
+            "population": [
+                100.0,
+                76.923545,
+                115.186614,
+                88.106523,
+                85.234786,
+                71.32403,
+                105.401378,
+                95.82735,
+                86.7100305
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1984",
+                "1985",
+                "1986",
+                "1999",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Estimates of number of males"
+    },
+    {
+        "binomial": "Emberiza_rustica",
+        "common_name": "Rustic bunting",
+        "data": {
+            "population": [
+                100.0,
+                82.556934,
+                79.732393,
+                74.025911,
+                146.518744,
+                98.918557,
+                68.746141,
+                83.735237,
+                85.267371
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1990",
+                "1991",
+                "1994"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Emberiza_schoeniclus",
+        "common_name": "Reed bunting",
+        "data": {
+            "population": [
+                3139.5,
+                430.28158759999997,
+                1303.956366,
+                1510.8311002,
+                3600.7202899999997,
+                417.9327343,
+                333.5925247,
+                470.9630995,
+                865.9944650000001
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1997",
+                "1998",
+                "2008",
+                "2010"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Engraulis_encrasicolus",
+        "common_name": "European anchovy",
+        "data": {
+            "population": [
+                633938.8248857142,
+                1311696.0,
+                3821800.0,
+                2310800.0,
+                1994800.0,
+                1592900.0,
+                1976700.0,
+                1586700.0,
+                1455800.0
+            ],
+            "years": [
+                "2003",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Engraulis_japonicus",
+        "common_name": "Japanese anchovy",
+        "data": {
+            "population": [
+                273666.6666666667,
+                304333.3333333333,
+                307000.0,
+                309666.6666666667,
+                290000.0,
+                340000.0,
+                337000.0,
+                267333.3333333333
+            ],
+            "years": [
+                "1991",
+                "1998",
+                "1999",
+                "2000",
+                "2002",
+                "2003",
+                "2004",
+                "2009"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Erithacus_rubecula",
+        "common_name": "European robin",
+        "data": {
+            "population": [
+                152.03561440000001,
+                144.640851,
+                172.16008616666667,
+                395.7897368,
+                149.06841433333332,
+                172.56688728571427,
+                190.7336842857143,
+                144.7895372857143,
+                163.1831775
+            ],
+            "years": [
+                "1990",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1998",
+                "2000",
+                "2001",
+                "2005"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Etrumeus_sadina",
+        "common_name": "Red-eye round herring",
+        "data": {
+            "population": [
+                59465.0,
+                58734.0,
+                63183.0,
+                70386.0,
+                68800.0,
+                91999.0,
+                83228.0,
+                60620.0
+            ],
+            "years": [
+                "1990",
+                "1991",
+                "1993",
+                "1994",
+                "2013",
+                "2015",
+                "2016",
+                "2017"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Falco_tinnunculus",
+        "common_name": "Common kestrel",
+        "data": {
+            "population": [
+                59.070751,
+                55.8551336,
+                69.7785408,
+                59.53830775,
+                54.747664199999996,
+                57.36157875,
+                70.344194,
+                68.288691,
+                70.584051
+            ],
+            "years": [
+                "1990",
+                "1994",
+                "1995",
+                "1997",
+                "2001",
+                "2006",
+                "2007",
+                "2008",
+                "2019"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Ficedula_albicollis",
+        "common_name": "Collared flycatcher",
+        "data": {
+            "population": [
+                297.058776,
+                244.849655,
+                248.117364,
+                253.45178,
+                275.025411,
+                262.870345,
+                245.081969,
+                276.513144,
+                271.369752
+            ],
+            "years": [
+                "1995",
+                "1997",
+                "2008",
+                "2012",
+                "2014",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Ficedula_hypoleuca",
+        "common_name": "European pied flycatcher",
+        "data": {
+            "population": [
+                106.97733740000001,
+                161.848788,
+                157.40447842857142,
+                164.47177116666668,
+                145.61367133333331,
+                111.09397716666666,
+                113.01805466666667,
+                158.97603866666665,
+                164.62843233333334
+            ],
+            "years": [
+                "1987",
+                "1995",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2004",
+                "2005",
+                "2006"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Fringilla_coelebs",
+        "common_name": "Common chaffinch",
+        "data": {
+            "population": [
+                165.54033333333334,
+                167.39671,
+                164.60721166666667,
+                169.197499,
+                180.29478749999998,
+                168.98585125,
+                160.893329,
+                166.54550025000003,
+                157.854187
+            ],
+            "years": [
+                "1980",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994"
+            ]
+        },
+        "unit": "Territories of singing males"
+    },
+    {
+        "binomial": "Fringilla_montifringilla",
+        "common_name": "Brambling",
+        "data": {
+            "population": [
+                137.419582,
+                125.012109,
+                175.489421,
+                149.190609,
+                240.4486495,
+                126.62638749999999,
+                113.21099399999999,
+                144.178079,
+                120.32997466666666
+            ],
+            "years": [
+                "1985",
+                "1988",
+                "1989",
+                "1990",
+                "1993",
+                "1994",
+                "1997",
+                "2001",
+                "2003"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Fulica_atra",
+        "common_name": "Common coot",
+        "data": {
+            "population": [
+                128716.54545454546,
+                135616.7377083,
+                131596.04212421426,
+                156865.96751103704,
+                203101.58652942858,
+                154324.23970410717,
+                180771.66777703844,
+                213037.59961033336,
+                194777.46719090908
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Gadus_chalcogrammus",
+        "common_name": "Alaska pollock",
+        "data": {
+            "population": [
+                1002330546.07,
+                911538872.0687274,
+                1002604820.1,
+                835466656.2270833,
+                835560121.6740834,
+                835338037.6849166,
+                1113203070.7024446,
+                910666511.3970909
+            ],
+            "years": [
+                "1983",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991"
+            ]
+        },
+        "unit": "CPUE (Weight/ (minute towed*tow length))"
+    },
+    {
+        "binomial": "Gadus_macrocephalus",
+        "common_name": "Pacific cod",
+        "data": {
+            "population": [
+                106646737.31725,
+                154887641.815625,
+                164334182.66666666,
+                113383304.6,
+                99892971.0046482,
+                122280583.00685084,
+                143372377.6186632,
+                177553623.613683
+            ],
+            "years": [
+                "1993",
+                "1994",
+                "2001",
+                "2002",
+                "2003",
+                "2007",
+                "2009",
+                "2010"
+            ]
+        },
+        "unit": "number of fish"
+    },
+    {
+        "binomial": "Gadus_morhua",
+        "common_name": "Atlantic cod",
+        "data": {
+            "population": [
+                2574371.887539382,
+                3195244.8444220005,
+                4297281.719304188,
+                3701925.109997318,
+                3558604.1746227494,
+                3240445.1758127,
+                2356514.789861681,
+                2847034.0201310623,
+                2853387.2579029
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1988",
+                "2009",
+                "2016"
+            ]
+        },
+        "unit": "Catch per tow"
+    },
+    {
+        "binomial": "Gallinago_gallinago",
+        "common_name": "Common snipe",
+        "data": {
+            "population": [
+                440.0,
+                406.46538685714285,
+                348.5198831428571,
+                632.2602063333334,
+                694.9007846000001,
+                646.8468884,
+                972.5045065,
+                805.8527655,
+                391.7707505
+            ],
+            "years": [
+                "1980",
+                "2001",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2011"
+            ]
+        },
+        "unit": "Annual population index"
+    },
+    {
+        "binomial": "Gallinula_chloropus",
+        "common_name": "Common moorhen",
+        "data": {
+            "population": [
+                244.87232099999997,
+                277.316894,
+                332.24609,
+                286.66434,
+                401.309747,
+                419.9779713333333,
+                290.851577,
+                287.6198195,
+                259.765796
+            ],
+            "years": [
+                "1999",
+                "2000",
+                "2001",
+                "2003",
+                "2004",
+                "2005",
+                "2010",
+                "2011",
+                "2012"
+            ]
+        },
+        "unit": "Nests"
+    },
+    {
+        "binomial": "Garrulus_glandarius",
+        "common_name": "Eurasian jay",
+        "data": {
+            "population": [
+                100.0,
+                98.3095175,
+                113.4733185,
+                100.55827,
+                104.2825045,
+                111.8026895,
+                107.4807625,
+                98.8101585,
+                111.1508255
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1984",
+                "1986",
+                "1987",
+                "1991",
+                "1994",
+                "1996",
+                "1997"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Gasterosteus_aculeatus",
+        "common_name": "Three-spined stickleback",
+        "data": {
+            "population": [
+                2.7161009999999997,
+                879.6294986111111,
+                465.13683024137936,
+                930.5569592424241,
+                1281.5207221621622,
+                619.3963245,
+                535.31294075,
+                6169.088693000001
+            ],
+            "years": [
+                "2003",
+                "2004",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ]
+        },
+        "unit": "Unknown"
+    },
+    {
+        "binomial": "Grus_grus",
+        "common_name": "Common crane",
+        "data": {
+            "population": [
+                7977.0,
+                7625.924107875,
+                8621.990236285714,
+                13482.062687875,
+                9540.461576444444,
+                12906.467656875,
+                9495.76307442857,
+                8895.158667428572,
+                10139.3295425
+            ],
+            "years": [
+                "1981",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997"
+            ]
+        },
+        "unit": "Breeding bird index"
+    },
+    {
+        "binomial": "Gulo_gulo",
+        "common_name": "Wolverine",
+        "data": {
+            "population": [
+                183.9665,
+                259.65725,
+                294.84524999999996,
+                177.68817142857142,
+                326.269075,
+                310.38995,
+                302.009225,
+                295.310925,
+                280.416125,
+                285.7571
+            ],
+            "years": [
+                "2007",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ]
+        },
+        "unit": "Number of individuals per 1,000 km2"
+    },
+    {
+        "binomial": "Haematopus_ostralegus",
+        "common_name": "Eurasian oystercatcher",
+        "data": {
+            "population": [
+                46344.8,
+                36423.902072100005,
+                35374.15335764706,
+                22605.1068335,
+                24478.2399485,
+                25647.880194,
+                20948.9281335,
+                22123.869543,
+                22830.082109
+            ],
+            "years": [
+                "1980",
+                "1985",
+                "1990",
+                "2010",
+                "2011",
+                "2012",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Nests"
+    },
+    {
+        "binomial": "Halichoerus_grypus",
+        "common_name": "Grey seal",
+        "data": {
+            "population": [
+                21277.27090909091,
+                18197.493333333336,
+                23291.898333333334,
+                32440.57777777778,
+                35269.753333333334,
+                36966.74888888889,
+                39145.92111111111,
+                45443.00875,
+                42708.82444444444
+            ],
+            "years": [
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010"
+            ]
+        },
+        "unit": "Pup production estimates for islands in the Ork..."
+    },
+    {
+        "binomial": "Hippoglossoides_elassodon",
+        "common_name": "Flathead sole",
+        "data": {
+            "population": [
+                321651.25,
+                356366.75,
+                376681.5,
+                292391.94,
+                424873.0,
+                303760.64,
+                476531.75,
+                336532.36
+            ],
+            "years": [
+                "1988",
+                "1990",
+                "1992",
+                "1993",
+                "1994",
+                "1996",
+                "1997",
+                "1998"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Hippolais_icterina",
+        "common_name": "Icterine warbler",
+        "data": {
+            "population": [
+                99.0,
+                106.9257035,
+                117.541962,
+                116.22819,
+                118.4394655,
+                97.892382,
+                106.9167295,
+                100.2949715,
+                105.228496
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1996",
+                "1997"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Hippolais_polyglotta",
+        "common_name": "Melodious warbler",
+        "data": {
+            "population": [
+                9.0,
+                11.0,
+                6.0,
+                51.20617,
+                36.57257333333333,
+                51.53436633333333,
+                27.008829249999998,
+                39.629208500000004
+            ],
+            "years": [
+                "1985",
+                "1986",
+                "1987",
+                "1990",
+                "1994",
+                "1995",
+                "2006",
+                "2014"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Hirundo_rustica",
+        "common_name": "Barn swallow",
+        "data": {
+            "population": [
+                373.9725384615385,
+                192.82542684615385,
+                395.1241566153846,
+                350.0112455,
+                263.5536937333333,
+                395.11284866666665,
+                413.5496452,
+                176.89248076470588,
+                156.43803347368421
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1988",
+                "1993",
+                "1998"
+            ]
+        },
+        "unit": "Annual index of population change"
+    },
+    {
+        "binomial": "Hoplias_malabaricus",
+        "common_name": "Trahira",
+        "data": {
+            "population": [
+                2.1446,
+                2.0583,
+                18.96418,
+                23.608,
+                51.0,
+                40.0,
+                16.0,
+                2.147727272727273
+            ],
+            "years": [
+                "1986",
+                "1990",
+                "2000",
+                "2001",
+                "2004",
+                "2005",
+                "2006",
+                "2010"
+            ]
+        },
+        "unit": "CPUE (kg/fisherman/day)"
+    },
+    {
+        "binomial": "Jynx_torquilla",
+        "common_name": "Eurasian wryneck",
+        "data": {
+            "population": [
+                106.5,
+                133.437107,
+                72.8482475,
+                75.16799950000001,
+                49.1237565,
+                71.50709950000001,
+                65.77884900000001,
+                58.2231465,
+                71.55158
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1986",
+                "1987",
+                "1989",
+                "1990",
+                "1991"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Lanius_collurio",
+        "common_name": "Red-backed shrike",
+        "data": {
+            "population": [
+                80.0,
+                97.7635355,
+                65.9340465,
+                63.4712205,
+                68.27398600000001,
+                70.1077315,
+                69.430222,
+                75.960196,
+                71.17325
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1983",
+                "1993",
+                "1996",
+                "1997",
+                "1999",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Lanius_minor",
+        "common_name": "Lesser grey shrike",
+        "data": {
+            "population": [
+                13.25,
+                18.0,
+                34.0,
+                31.1056506,
+                17.2671376,
+                57.803397,
+                51.7833495,
+                64.480813,
+                53.445639
+            ],
+            "years": [
+                "1996",
+                "1997",
+                "1999",
+                "2001",
+                "2002",
+                "2005",
+                "2007",
+                "2008",
+                "2010"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Leiopicus_medius",
+        "common_name": "Middle spotted woodpecker",
+        "data": {
+            "population": [
+                141.005743,
+                130.403,
+                124.682158,
+                138.426614,
+                140.069953,
+                147.037487,
+                143.021671,
+                135.646386,
+                169.267592
+            ],
+            "years": [
+                "1997",
+                "2010",
+                "2012",
+                "2013",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Leiothrix_lutea",
+        "common_name": "Red-billed leiothrix",
+        "data": {
+            "population": [
+                1.07,
+                0.77,
+                1.0002499999999999,
+                1.053,
+                0.8193,
+                2.1221,
+                10.839,
+                26.7979
+            ],
+            "years": [
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2010"
+            ]
+        },
+        "unit": "Mean density (#/ha)"
+    },
+    {
+        "binomial": "Lepidopsetta_polyxystra",
+        "common_name": "Northern rock sole",
+        "data": {
+            "population": [
+                1288176.5,
+                1336059.5,
+                1346642.5,
+                1354918.5,
+                1256294.5,
+                1492499.0,
+                1312130.5,
+                1236124.5
+            ],
+            "years": [
+                "1995",
+                "1996",
+                "1998",
+                "2000",
+                "2002",
+                "2003",
+                "2005",
+                "2007"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Lepisosteus_osseus",
+        "common_name": "Longnose gar",
+        "data": {
+            "population": [
+                0.04,
+                0.04,
+                0.3587,
+                0.3597333333333334,
+                1.0576666666666668,
+                0.5554285714285714,
+                0.95414,
+                0.8576
+            ],
+            "years": [
+                "1983",
+                "1990",
+                "2002",
+                "2005",
+                "2007",
+                "2008",
+                "2010",
+                "2012"
+            ]
+        },
+        "unit": "Catch per gillnet"
+    },
+    {
+        "binomial": "Lepomis_gibbosus",
+        "common_name": "Pumpkinseed",
+        "data": {
+            "population": [
+                18.79537142857143,
+                29.984516666666668,
+                14.638737500000001,
+                11.9585,
+                9.934633333333332,
+                10.165825,
+                12.716633333333334,
+                15.07095
+            ],
+            "years": [
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2011",
+                "2013",
+                "2015",
+                "2017"
+            ]
+        },
+        "unit": "Catch per unit effort"
+    },
+    {
+        "binomial": "Lepomis_macrochirus",
+        "common_name": "Bluegill",
+        "data": {
+            "population": [
+                11.3,
+                0.18855,
+                19.8547,
+                36.611225,
+                2.2220000000000004,
+                18.402025,
+                25.158833333333334,
+                18.63418
+            ],
+            "years": [
+                "1983",
+                "1999",
+                "2000",
+                "2002",
+                "2006",
+                "2007",
+                "2009",
+                "2012"
+            ]
+        },
+        "unit": "Mean catch per trap net"
+    },
+    {
+        "binomial": "Limanda_aspera",
+        "common_name": "Yellowfin sole",
+        "data": {
+            "population": [
+                1930699.75,
+                2670410.0,
+                2434100.0,
+                1984400.0,
+                2090033.3333333333,
+                1942933.3333333333,
+                2027733.3333333333,
+                2124600.0
+            ],
+            "years": [
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1987",
+                "1991",
+                "1993",
+                "1994"
+            ]
+        },
+        "unit": "Spawning stcok biomass/thousand tonnes"
+    },
+    {
+        "binomial": "Limosa_limosa",
+        "common_name": "Black-tailed Godwit",
+        "data": {
+            "population": [
+                1727.6875484615387,
+                1022.1015453225807,
+                1423.73323715625,
+                2467.409669090909,
+                2190.850857548557,
+                1090.6371801029607,
+                722.5299106230323,
+                687.2463394271324,
+                815.4626708022747
+            ],
+            "years": [
+                "1980",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Sample: abundance (counts)"
+    },
+    {
+        "binomial": "Linaria_cannabina",
+        "common_name": "Common linnet",
+        "data": {
+            "population": [
+                328426.8333333333,
+                345094.98075116664,
+                238576.21934850002,
+                290121.39640416665,
+                226744.828262,
+                282049.6671344,
+                253389.47486566668,
+                261719.51015,
+                232962.80046128572
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1983",
+                "1984",
+                "1985",
+                "1989",
+                "1990",
+                "1991",
+                "1994"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Locustella_naevia",
+        "common_name": "Common grasshopper-warbler",
+        "data": {
+            "population": [
+                100.0,
+                69.433042,
+                107.24078,
+                88.976085,
+                68.576796,
+                70.554602,
+                108.248626,
+                96.963994,
+                106.512042
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1989",
+                "1990",
+                "1993"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Lophophanes_cristatus",
+        "common_name": "Crested tit",
+        "data": {
+            "population": [
+                119.0,
+                114.876391,
+                74.367463,
+                83.6814575,
+                78.114386,
+                79.431619,
+                82.66037299999999,
+                79.2267985,
+                69.242878
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1986",
+                "1989",
+                "1990",
+                "1993"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Loxia_curvirostra",
+        "common_name": "Red crossbill",
+        "data": {
+            "population": [
+                1.54,
+                1.9862222222222223,
+                12.286818181818182,
+                1.3544545454545454,
+                1.3398999999999999,
+                2.95875,
+                1.3297272727272729,
+                1.3367272727272725
+            ],
+            "years": [
+                "1983",
+                "1984",
+                "1990",
+                "1993",
+                "1994",
+                "2002",
+                "2008",
+                "2012"
+            ]
+        },
+        "unit": "Annual Index"
+    },
+    {
+        "binomial": "Lullula_arborea",
+        "common_name": "Woodlark",
+        "data": {
+            "population": [
+                173.097778,
+                168.42381749999998,
+                316.832518,
+                171.28744600000002,
+                854.7077274999999,
+                272.860433,
+                1122.3612,
+                167.456484,
+                322.413579
+            ],
+            "years": [
+                "1981",
+                "1992",
+                "1993",
+                "1994",
+                "1997",
+                "2001",
+                "2007",
+                "2016",
+                "2019"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Luscinia_luscinia",
+        "common_name": "Thrush nightingale",
+        "data": {
+            "population": [
+                128.941037,
+                107.50993249999999,
+                110.90778449999999,
+                96.641962,
+                109.04190750000001,
+                103.99022500000001,
+                101.70157,
+                96.1672015,
+                100.454976
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "2007"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Luscinia_megarhynchos",
+        "common_name": "Common nightingale",
+        "data": {
+            "population": [
+                100.0,
+                88.571047,
+                41.1144115,
+                36.346301,
+                29.331148333333335,
+                25.609938666666665,
+                24.5880225,
+                25.2893765,
+                31.576036
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1994",
+                "1995",
+                "2004",
+                "2005",
+                "2019"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Lynx_lynx",
+        "common_name": "Eurasian lynx",
+        "data": {
+            "population": [
+                972.1428571428571,
+                859.8814285714286,
+                834.6540000000001,
+                708.73,
+                840.8860000000001,
+                1377.0,
+                1325.0,
+                1979.0
+            ],
+            "years": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Lyrurus_tetrix",
+        "common_name": "Black grouse",
+        "data": {
+            "population": [
+                87.125,
+                86.075,
+                84.725753,
+                102.636428,
+                110.774316,
+                84.527114,
+                117.157176,
+                91.45085,
+                95.613731
+            ],
+            "years": [
+                "1988",
+                "1989",
+                "2005",
+                "2007",
+                "2008",
+                "2009",
+                "2012",
+                "2014",
+                "2017"
+            ]
+        },
+        "unit": "Number of tracks per 10 km of route"
+    },
+    {
+        "binomial": "Macruronus_novaezelandiae",
+        "common_name": "Blue grenadier",
+        "data": {
+            "population": [
+                383331.0633333333,
+                392944.13999999996,
+                405276.63000000006,
+                412527.37333333335,
+                413859.8666666667,
+                325357.6916,
+                329426.56500000006,
+                315926.42860000004,
+                287199.8942,
+                256173.1986
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Melanogrammus_aeglefinus",
+        "common_name": "Haddock",
+        "data": {
+            "population": [
+                7584870.47729042,
+                7812344.327717527,
+                8643586.178393332,
+                7993644.059941875,
+                13749025.674967563,
+                7331954.625813999,
+                8106427.9676618,
+                12894385.192285715,
+                11910508.307627624
+            ],
+            "years": [
+                "2001",
+                "2002",
+                "2006",
+                "2007",
+                "2009",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Spawning stock biomass (Thousand tonnes)"
+    },
+    {
+        "binomial": "Meles_meles",
+        "common_name": "European badger",
+        "data": {
+            "population": [
+                137.53333333333333,
+                4320.0,
+                140.73496666666668,
+                330.0,
+                275.3333333333333,
+                337.8666666666667,
+                17878.35,
+                136.0
+            ],
+            "years": [
+                "1980",
+                "1988",
+                "2004",
+                "2009",
+                "2010",
+                "2011",
+                "2013",
+                "2017"
+            ]
+        },
+        "unit": "Estimated population size"
+    },
+    {
+        "binomial": "Merlangius_merlangus",
+        "common_name": "Whiting",
+        "data": {
+            "population": [
+                104988.6634,
+                111017.0,
+                146939.0,
+                140232.0,
+                149798.0,
+                158649.0,
+                167485.0,
+                172592.0,
+                163406.0
+            ],
+            "years": [
+                "1995",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Adjusted mean annual abundance"
+    },
+    {
+        "binomial": "Merluccius_australis",
+        "common_name": "Southern hake",
+        "data": {
+            "population": [
+                159848.66666666666,
+                152288.66666666666,
+                149716.0,
+                146624.0,
+                154204.33333333334,
+                169526.0,
+                166019.0,
+                161654.0,
+                152919.0
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1983",
+                "1984",
+                "1986",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Merluccius_gayi",
+        "common_name": "South Pacific hake",
+        "data": {
+            "population": [
+                261301.0437,
+                239596.3033,
+                231921.3579,
+                301521.0601,
+                368970.3115,
+                427516.0519,
+                381126.541,
+                341193.0164,
+                306829.0492,
+                274400.5519
+            ],
+            "years": [
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000"
+            ]
+        },
+        "unit": "Spawning stock biomass/tonnes"
+    },
+    {
+        "binomial": "Merluccius_hubbsi",
+        "common_name": "Argentine hake",
+        "data": {
+            "population": [
+                199055.45,
+                110715.8,
+                127325.3,
+                285950.76666666666,
+                284096.4666666667,
+                376838.0,
+                237135.0,
+                231282.5
+            ],
+            "years": [
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "2014",
+                "2015"
+            ]
+        },
+        "unit": "Mean catch per hour (%)"
+    },
+    {
+        "binomial": "Merluccius_merluccius",
+        "common_name": "European hake",
+        "data": {
+            "population": [
+                107010.80500000001,
+                115320.99196,
+                115654.45941,
+                124528.336855,
+                145270.450875,
+                162817.912105,
+                156023.74959,
+                147050.420425,
+                151400.281
+            ],
+            "years": [
+                "1981",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Spawning stock biomass (tonnes)"
+    },
+    {
+        "binomial": "Merluccius_productus",
+        "common_name": "North Pacific hake",
+        "data": {
+            "population": [
+                1533317.5,
+                2339447.5,
+                1977250.0,
+                1973557.5,
+                2372335.0,
+                2069770.0,
+                1656125.0,
+                1469002.5
+            ],
+            "years": [
+                "1982",
+                "1983",
+                "1985",
+                "1986",
+                "1988",
+                "1990",
+                "1992",
+                "2017"
+            ]
+        },
+        "unit": "Biomass index (kg per hour)"
+    },
+    {
+        "binomial": "Merops_apiaster",
+        "common_name": "European bee-eater",
+        "data": {
+            "population": [
+                8.0,
+                62.214990818181825,
+                66.7448768,
+                75.09010980000001,
+                108.3090095,
+                93.354656,
+                106.75088766666666,
+                94.7889105,
+                84.777194
+            ],
+            "years": [
+                "1984",
+                "2002",
+                "2003",
+                "2004",
+                "2007",
+                "2008",
+                "2010",
+                "2014",
+                "2016"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Micromesistius_australis",
+        "common_name": "Southen blue whiting",
+        "data": {
+            "population": [
+                543785.0,
+                552653.5,
+                552141.5,
+                551646.5,
+                554435.0,
+                580631.5,
+                589093.5,
+                550051.0,
+                504905.0
+            ],
+            "years": [
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997"
+            ]
+        },
+        "unit": "Mean catch per hour (%)"
+    },
+    {
+        "binomial": "Micromesistius_poutassou",
+        "common_name": "Blue whiting",
+        "data": {
+            "population": [
+                3572342.8626666665,
+                4686915.32,
+                4613526.226,
+                6148021.5,
+                6120328.0,
+                3777583.5,
+                4229586.0,
+                5017692.0,
+                6295525.0,
+                6315041.0
+            ],
+            "years": [
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2012",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "Population estimate"
+    },
+    {
+        "binomial": "Micropterus_dolomieu",
+        "common_name": "Smallmouth bass",
+        "data": {
+            "population": [
+                38.02,
+                23.47,
+                14.55,
+                14.96,
+                9.76,
+                10.89,
+                19.917499999999997,
+                14.848999999999998
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1985",
+                "1987",
+                "1989",
+                "1991"
+            ]
+        },
+        "unit": "Catch per standard gillnet"
+    },
+    {
+        "binomial": "Morone_americana",
+        "common_name": "White perch",
+        "data": {
+            "population": [
+                123.57921999999999,
+                248.83705999999998,
+                123.42633333333333,
+                194.165525,
+                140.371225,
+                230.0271,
+                241.1635,
+                109.34195
+            ],
+            "years": [
+                "1996",
+                "2004",
+                "2006",
+                "2009",
+                "2011",
+                "2013",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "Annual catch per unit effort"
+    },
+    {
+        "binomial": "Morone_chrysops",
+        "common_name": "White bass",
+        "data": {
+            "population": [
+                0.7635,
+                0.52095,
+                0.14226666666666665,
+                0.7743000000000001,
+                4.0341,
+                0.461,
+                0.6055,
+                6.183
+            ],
+            "years": [
+                "1995",
+                "2004",
+                "2007",
+                "2008",
+                "2009",
+                "2013",
+                "2014",
+                "2016"
+            ]
+        },
+        "unit": "Mean catch per trap net"
+    },
+    {
+        "binomial": "Motacilla_alba",
+        "common_name": "White wagtail",
+        "data": {
+            "population": [
+                1044.6666666666667,
+                967.8797403333333,
+                459.45304899999996,
+                656.542694,
+                808.874764,
+                561.00685925,
+                584.45211,
+                684.1972713333333,
+                434.4655374285714
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1988",
+                "1993",
+                "1995",
+                "1996"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Motacilla_cinerea",
+        "common_name": "Grey wagtail",
+        "data": {
+            "population": [
+                87.575264,
+                116.275885,
+                110.08077800000001,
+                92.8802105,
+                102.7026765,
+                94.6513445,
+                89.0816905,
+                90.72752600000001,
+                108.845223
+            ],
+            "years": [
+                "1981",
+                "1983",
+                "1984",
+                "1989",
+                "1990",
+                "1991",
+                "1993",
+                "1995",
+                "2019"
+            ]
+        },
+        "unit": "Number migrating birds"
+    },
+    {
+        "binomial": "Motacilla_flava",
+        "common_name": "Western yellow wagtail",
+        "data": {
+            "population": [
+                721.0,
+                1030.1650685,
+                862.5775455,
+                1102.5972253333332,
+                1220.0750183333332,
+                639.2257536666667,
+                622.7566806666667,
+                726.5273980000001,
+                621.8543343333333
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1987",
+                "1988",
+                "1993"
+            ]
+        },
+        "unit": "Number seen during autumn migration"
+    },
+    {
+        "binomial": "Muscicapa_striata",
+        "common_name": "Spotted flycatcher",
+        "data": {
+            "population": [
+                149.18,
+                142.1606098,
+                141.04367299999998,
+                125.38225600000001,
+                127.445435,
+                115.45584840000001,
+                120.8735234,
+                108.03061419999999,
+                110.6714484
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1988",
+                "1995"
+            ]
+        },
+        "unit": "Number of flycatchers per 100000 birds ringed"
+    },
+    {
+        "binomial": "Myotis_daubentonii",
+        "common_name": "Daubenton's bat",
+        "data": {
+            "population": [
+                106.45189999999998,
+                94.81385833333333,
+                530.6532818181818,
+                770.0044700000001,
+                976.1003199999999,
+                153.20877142857142,
+                713.6431,
+                994.3446,
+                1653.7921333333334
+            ],
+            "years": [
+                "2000",
+                "2004",
+                "2010",
+                "2011",
+                "2012",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Myotis_emarginatus",
+        "common_name": "Geoffroy's myotis",
+        "data": {
+            "population": [
+                292.59729090909093,
+                246.01427272727275,
+                309.25084444444445,
+                393.0857555555556,
+                470.77453333333335,
+                673.689757142857,
+                666.6658428571429,
+                684.5854571428572
+            ],
+            "years": [
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Myotis_myotis",
+        "common_name": "Greater mouse-eared bat",
+        "data": {
+            "population": [
+                254.33333333333334,
+                3975.0,
+                4204.0,
+                4553.8,
+                3579.8333333333335,
+                6077.5,
+                283.5,
+                370.6,
+                4825.666666666667
+            ],
+            "years": [
+                "2004",
+                "2005",
+                "2006",
+                "2009",
+                "2010",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Myotis_nattereri",
+        "common_name": "Natterer's bat",
+        "data": {
+            "population": [
+                376.52252857142855,
+                552.1866,
+                532.1668333333333,
+                643.3039375,
+                905.7264,
+                805.4582,
+                914.4807999999999,
+                1169.21818,
+                1262.584425
+            ],
+            "years": [
+                "2008",
+                "2009",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Neogobius_melanostomus",
+        "common_name": "Round goby",
+        "data": {
+            "population": [
+                0.0,
+                0.0,
+                0.35,
+                0.36,
+                0.22826,
+                1.0612400000000002,
+                13.97738,
+                11.046240000000001
+            ],
+            "years": [
+                "1993",
+                "1995",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004"
+            ]
+        },
+        "unit": "Catch per trawl"
+    },
+    {
+        "binomial": "Nucifraga_caryocatactes",
+        "common_name": "Northern nutcracker",
+        "data": {
+            "population": [
+                231.670006,
+                174.170006,
+                297.845021,
+                151.3425165,
+                168.3425165,
+                137.4162495,
+                372.6725105,
+                208.0125225,
+                123.621643
+            ],
+            "years": [
+                "1987",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1995",
+                "1997",
+                "2007"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Numenius_arquata",
+        "common_name": "Eurasian curlew",
+        "data": {
+            "population": [
+                6280.864923499999,
+                8931.511705,
+                14645.8306585,
+                25854.1725645,
+                15085.1986025,
+                19921.9580985,
+                16623.008714,
+                15084.7467515,
+                13545.5504705
+            ],
+            "years": [
+                "1982",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Numenius_phaeopus",
+        "common_name": "Whimbrel",
+        "data": {
+            "population": [
+                2740.1383731428573,
+                2439.573672,
+                2089.779381,
+                793.6336855,
+                800.372239,
+                1304.8635825833333,
+                827.4057993636364,
+                1316.0676886153847,
+                906.869330125
+            ],
+            "years": [
+                "1987",
+                "1993",
+                "1994",
+                "1997",
+                "1999",
+                "2001",
+                "2003",
+                "2008",
+                "2010"
+            ]
+        },
+        "unit": "Annual population index"
+    },
+    {
+        "binomial": "Oenanthe_oenanthe",
+        "common_name": "Northern wheatear",
+        "data": {
+            "population": [
+                298.41885333333335,
+                210.374218,
+                246.9753565,
+                229.74980975,
+                233.46982533333335,
+                214.90210433333334,
+                297.5533403333333,
+                258.12394,
+                303.40774500000003
+            ],
+            "years": [
+                "1985",
+                "1992",
+                "1993",
+                "1996",
+                "1999",
+                "2000",
+                "2001",
+                "2007",
+                "2008"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Oncorhynchus_keta",
+        "common_name": "Chum salmon",
+        "data": {
+            "population": [
+                188051.58333333334,
+                177386.14285714287,
+                147995.8125,
+                141155.11727272728,
+                148622.55,
+                222567.27274486364,
+                131014.12501812499,
+                173102.33333333334,
+                150381.0
+            ],
+            "years": [
+                "1981",
+                "1985",
+                "1986",
+                "1995",
+                "1996",
+                "2005",
+                "2016",
+                "2017",
+                "2019"
+            ]
+        },
+        "unit": "estimates of salmon escapement through Kwethluk..."
+    },
+    {
+        "binomial": "Oncorhynchus_kisutch",
+        "common_name": "Coho salmon",
+        "data": {
+            "population": [
+                36454.61538461538,
+                41412.857142857145,
+                32195.153846153848,
+                35651.0,
+                32127.5,
+                57612.7,
+                31202.555555555555,
+                53016.22222222222,
+                50300.7
+            ],
+            "years": [
+                "1984",
+                "1986",
+                "1988",
+                "1990",
+                "1992",
+                "2009",
+                "2010",
+                "2013",
+                "2014"
+            ]
+        },
+        "unit": "number of fish"
+    },
+    {
+        "binomial": "Oncorhynchus_tshawytscha",
+        "common_name": "Chinook salmon",
+        "data": {
+            "population": [
+                20967.21052631579,
+                17533.222222222223,
+                28352.444444444445,
+                24790.103448275862,
+                20245.8,
+                18481.322580645163,
+                21503.791666666668,
+                17466.565217391304,
+                18122.814596153847
+            ],
+            "years": [
+                "1981",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1990",
+                "1991",
+                "1992"
+            ]
+        },
+        "unit": "Number of spawners"
+    },
+    {
+        "binomial": "Oriolus_oriolus",
+        "common_name": "Eurasian golden oriole",
+        "data": {
+            "population": [
+                80.682234,
+                73.0305425,
+                70.572147,
+                95.940892,
+                91.539873,
+                74.727609,
+                72.1342705,
+                73.6849065,
+                116.577282
+            ],
+            "years": [
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1990",
+                "1992",
+                "1993",
+                "2019"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Osmerus_mordax",
+        "common_name": "Rainbow smelt",
+        "data": {
+            "population": [
+                96.1917902,
+                166.3553908,
+                97.823047,
+                80.40426640000001,
+                54.322245875,
+                131.43877292857144,
+                54.8267770909091,
+                70.15086961904761
+            ],
+            "years": [
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2002",
+                "2005",
+                "2007",
+                "2010"
+            ]
+        },
+        "unit": "Number per 10 minutes"
+    },
+    {
+        "binomial": "Parus_major",
+        "common_name": "Great tit",
+        "data": {
+            "population": [
+                88.47606566666667,
+                126.33316966666666,
+                109.08912585714286,
+                306.6379938571428,
+                139.60867725,
+                230.54495550000001,
+                355.8252105,
+                168.542401625,
+                121.11639
+            ],
+            "years": [
+                "1981",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1996",
+                "1997",
+                "1998",
+                "2019"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Passer_domesticus",
+        "common_name": "House sparrow",
+        "data": {
+            "population": [
+                1127.804168357143,
+                576.7047731333332,
+                446.94693920000003,
+                445.9632924,
+                514.3343334666666,
+                575.4792085999999,
+                467.9830584666667,
+                499.73609366666665,
+                434.77169916666674
+            ],
+            "years": [
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1995"
+            ]
+        },
+        "unit": "Annual index of population change"
+    },
+    {
+        "binomial": "Passer_montanus",
+        "common_name": "Eurasian tree sparrow",
+        "data": {
+            "population": [
+                485.11475,
+                404.8727405,
+                255.9051528,
+                240.168313,
+                196.94366025,
+                165.752689,
+                151.15525225,
+                141.713773,
+                173.79721383333333
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1997"
+            ]
+        },
+        "unit": "Individuals per 100km"
+    },
+    {
+        "binomial": "Perca_flavescens",
+        "common_name": "American yellow perch",
+        "data": {
+            "population": [
+                110.50750000000001,
+                113.19766666666668,
+                110.87,
+                92.60333333333334,
+                123.78451666666665,
+                92.23148333333332,
+                90.87987777777778,
+                103.50248942857141
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1987",
+                "1989",
+                "1995",
+                "1999",
+                "2004",
+                "2011"
+            ]
+        },
+        "unit": "Catch per set"
+    },
+    {
+        "binomial": "Perdix_perdix",
+        "common_name": "Grey partridge",
+        "data": {
+            "population": [
+                85.56257142857143,
+                68.59035757142858,
+                59.42412814285715,
+                56.01285014285714,
+                59.310155571428574,
+                55.229823571428575,
+                51.597424999999994,
+                47.183327,
+                42.39297728571428
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Annual Index"
+    },
+    {
+        "binomial": "Periparus_ater",
+        "common_name": "Coal tit",
+        "data": {
+            "population": [
+                321.6666666666667,
+                110.7284995,
+                123.97121899999999,
+                100.42649399999999,
+                166.89675566666668,
+                309.81038079999996,
+                482.3954834,
+                310.3069416,
+                244.882055
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1986",
+                "1990",
+                "1993",
+                "1996",
+                "1997",
+                "2003"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Phasianus_colchicus",
+        "common_name": "Common pheasant",
+        "data": {
+            "population": [
+                30.2168383,
+                29.731416300000006,
+                30.065636090909084,
+                36.47431872727273,
+                80.96140399999999,
+                74.024378,
+                79.321085,
+                78.0364,
+                158.024184
+            ],
+            "years": [
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Phoca_vitulina",
+        "common_name": "Harbour seal",
+        "data": {
+            "population": [
+                5305.8,
+                5611.3,
+                5338.6,
+                6705.071428571428,
+                5071.090909090909,
+                5704.666666666667,
+                5524.285714285715,
+                4600.590909090909,
+                5386.833333333333
+            ],
+            "years": [
+                "1980",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1995",
+                "1997",
+                "2011"
+            ]
+        },
+        "unit": "Total count"
+    },
+    {
+        "binomial": "Phoenicurus_ochruros",
+        "common_name": "Black redstart",
+        "data": {
+            "population": [
+                89.82756,
+                92.560318,
+                118.066573,
+                150.044557,
+                170.375593,
+                166.475696,
+                159.749963,
+                169.455247,
+                84.381763
+            ],
+            "years": [
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "2017"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Phoenicurus_phoenicurus",
+        "common_name": "Common redstart",
+        "data": {
+            "population": [
+                110.5,
+                94.836781,
+                107.1967135,
+                128.6040434,
+                100.237804,
+                99.414701,
+                100.193482,
+                102.233129,
+                102.669673
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1995",
+                "2013",
+                "2014",
+                "2016",
+                "2017",
+                "2019"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Phylloscopus_collybita",
+        "common_name": "Common chiffchaff",
+        "data": {
+            "population": [
+                204.4956416,
+                263.39722566666666,
+                213.981708,
+                208.190617,
+                161.16959685714284,
+                167.97350214285714,
+                214.56163275,
+                359.05588566666665,
+                229.809998
+            ],
+            "years": [
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2019"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Phylloscopus_sibilatrix",
+        "common_name": "Wood warbler",
+        "data": {
+            "population": [
+                106.0202425,
+                112.4228275,
+                115.46315975,
+                118.41958575,
+                116.30130650000001,
+                101.10794,
+                109.26539233333334,
+                123.0055165,
+                102.9574355
+            ],
+            "years": [
+                "1981",
+                "1987",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Phylloscopus_trochilus",
+        "common_name": "Willow warbler",
+        "data": {
+            "population": [
+                260.3456064,
+                271.906346,
+                272.9317657142857,
+                416.68692657142856,
+                312.53402983333336,
+                309.09866366666665,
+                371.26807033333336,
+                312.870611,
+                304.66229016666665
+            ],
+            "years": [
+                "1990",
+                "1993",
+                "1996",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Pica_pica",
+        "common_name": "Eurasian magpie",
+        "data": {
+            "population": [
+                155.87456,
+                146.866479,
+                158.18275549999998,
+                159.680726,
+                158.527005,
+                163.2962275,
+                142.3033905,
+                130.7327635,
+                140.25642966666666
+            ],
+            "years": [
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1999",
+                "2000",
+                "2008"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Picus_viridis",
+        "common_name": "Eurasian green woodpecker",
+        "data": {
+            "population": [
+                103.9557805,
+                100.108589,
+                114.3774965,
+                104.2675655,
+                101.132867,
+                105.37346600000001,
+                105.8504845,
+                120.5736415,
+                159.105556
+            ],
+            "years": [
+                "1981",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1993",
+                "1994",
+                "1998",
+                "2019"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Plagioscion_squamosissimus",
+        "common_name": "South American silver croaker",
+        "data": {
+            "population": [
+                16.8331,
+                25.2753,
+                37.1736,
+                36.0152,
+                20.2637,
+                32.1622,
+                21.787,
+                25.9599,
+                16.7114,
+                28.9939
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1994",
+                "1999",
+                "2000"
+            ]
+        },
+        "unit": "Average number of individuals"
+    },
+    {
+        "binomial": "Pleuronectes_platessa",
+        "common_name": "European plaice",
+        "data": {
+            "population": [
+                645834.329,
+                688862.3648,
+                793217.267,
+                923896.566,
+                864390.732,
+                929262.673,
+                1002206.97,
+                967507.6277,
+                1052266.0
+            ],
+            "years": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "SSB (tonnes)"
+    },
+    {
+        "binomial": "Pluvialis_apricaria",
+        "common_name": "Eurasian golden plover",
+        "data": {
+            "population": [
+                3873.3335458888887,
+                3998.7404152222225,
+                6967.452929666667,
+                3714.5917519999994,
+                6095.896201857143,
+                6605.682929714286,
+                4951.226602875,
+                5034.03598425,
+                3747.2282366666664
+            ],
+            "years": [
+                "1991",
+                "1996",
+                "1997",
+                "1998",
+                "2000",
+                "2001",
+                "2002",
+                "2008",
+                "2009"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Podiceps_cristatus",
+        "common_name": "Great crested grebe",
+        "data": {
+            "population": [
+                6442.4876169,
+                7497.1959787,
+                7112.135921,
+                6847.335674083333,
+                8244.0028022,
+                11260.02926225,
+                8944.469335333333,
+                19344.6674088,
+                8398.686319714285
+            ],
+            "years": [
+                "1993",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002"
+            ]
+        },
+        "unit": "breeding pairs or number of overwintering indiv..."
+    },
+    {
+        "binomial": "Poecile_montanus",
+        "common_name": "Willow tit",
+        "data": {
+            "population": [
+                167.06010625,
+                156.16116875,
+                197.14842033333332,
+                194.250267,
+                191.10416533333333,
+                198.84182533333333,
+                195.981092,
+                201.06273066666665,
+                183.20213433333333
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Poecile_palustris",
+        "common_name": "Marsh tit",
+        "data": {
+            "population": [
+                90.55275,
+                86.0949555,
+                84.99466100000001,
+                88.06512425,
+                83.960477,
+                76.57748175,
+                74.21122375,
+                77.3954215,
+                78.5108795
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Population index"
+    },
+    {
+        "binomial": "Pollachius_virens",
+        "common_name": "Saithe",
+        "data": {
+            "population": [
+                6422277.736537233,
+                10949027.515384616,
+                5592358.83213277,
+                6086898.221959417,
+                9100097.730341889,
+                18015003.258668225,
+                6722769.032295888,
+                5569333.933999999,
+                8061470.961779668
+            ],
+            "years": [
+                "1987",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2011",
+                "2013",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "SSB (tonnes)"
+    },
+    {
+        "binomial": "Prunella_modularis",
+        "common_name": "Dunnock",
+        "data": {
+            "population": [
+                79.85600000000001,
+                94.37271866666667,
+                79.41836066666667,
+                86.72058033333333,
+                70.91218866666667,
+                66.78624433333334,
+                69.29148066666666,
+                76.213421,
+                69.241621
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1988",
+                "1989",
+                "1993",
+                "2019"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Pyrrhula_pyrrhula",
+        "common_name": "Eurasian bullfinch",
+        "data": {
+            "population": [
+                124.5,
+                114.297118,
+                102.857946,
+                98.869822,
+                90.2761685,
+                99.3045685,
+                97.345996,
+                91.7542555,
+                86.88468449999999
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1989"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Regulus_ignicapilla",
+        "common_name": "Common firecrest",
+        "data": {
+            "population": [
+                100.0,
+                47.19672,
+                44.0154,
+                75.185556,
+                140.440972,
+                144.579658,
+                87.935629,
+                64.026421
+            ],
+            "years": [
+                "1982",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "2017"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Regulus_regulus",
+        "common_name": "Goldcrest",
+        "data": {
+            "population": [
+                1387.7788762,
+                1030.5432664,
+                1863.4624589999999,
+                740.1926115,
+                628.7056617999999,
+                579.7171756,
+                574.4531775,
+                735.02847325,
+                659.68875
+            ],
+            "years": [
+                "1990",
+                "1992",
+                "1993",
+                "1995",
+                "1996",
+                "1998",
+                "1999",
+                "2000",
+                "2001"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Rupicapra_rupicapra",
+        "common_name": "Tatra chamois",
+        "data": {
+            "population": [
+                10603.416666666666,
+                11621.833333333334,
+                10136.0,
+                10786.57142857143,
+                10092.555555555555,
+                13085.214285714286,
+                10541.333333333334,
+                10073.857142857143
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1983",
+                "1987",
+                "1989",
+                "1990",
+                "1993",
+                "2000"
+            ]
+        },
+        "unit": "Individuals (kids excluded)"
+    },
+    {
+        "binomial": "Salmo_salar",
+        "common_name": "Atlantic salmon",
+        "data": {
+            "population": [
+                116130.18357142856,
+                245987.474,
+                151583.98933333333,
+                158416.41,
+                163335.27,
+                131623.4131578947,
+                118750.15782608696,
+                161552.73846153848
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Salmo_trutta",
+        "common_name": "Brown trout",
+        "data": {
+            "population": [
+                1324.5,
+                1186.0,
+                366.71875,
+                328.35,
+                647.4285714285714,
+                291.11927562962967,
+                326.9497365909091,
+                289.9141
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1988",
+                "1989",
+                "2010"
+            ]
+        },
+        "unit": "Abundance (CPUE)"
+    },
+    {
+        "binomial": "Salvelinus_namaycush",
+        "common_name": "Lake trout",
+        "data": {
+            "population": [
+                1396.4225,
+                1298.6375,
+                1287.0225,
+                1191.0975,
+                1001.155,
+                1149.3425,
+                1034.9575,
+                921.8575
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Catch per gillnet"
+    },
+    {
+        "binomial": "Sander_vitreus",
+        "common_name": "Walleye",
+        "data": {
+            "population": [
+                3339.53303125,
+                2610.06666875,
+                3366.0481,
+                2986.1757833333327,
+                4755.95161,
+                4112.20427,
+                3806.2376249999998,
+                2502.2816444444447
+            ],
+            "years": [
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994"
+            ]
+        },
+        "unit": "SSB (Index)"
+    },
+    {
+        "binomial": "Sardinops_sagax",
+        "common_name": "Pacific sardine",
+        "data": {
+            "population": [
+                709445359.53335,
+                771325280.6919286,
+                879564767.2064285,
+                903257283.7704399,
+                1001145037.72281,
+                1001458651.08129,
+                910458050.5440091,
+                910746253.0814728,
+                861151072.05797
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989"
+            ]
+        },
+        "unit": "CPUE (Weight/ (minute towed*tow length))"
+    },
+    {
+        "binomial": "Saxicola_rubetra",
+        "common_name": "Whinchat",
+        "data": {
+            "population": [
+                93.5,
+                80.3868875,
+                63.0006245,
+                56.0741905,
+                55.033974,
+                63.629673,
+                61.938438,
+                52.8924185,
+                75.31240775
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1990"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Saxicola_torquatus",
+        "common_name": "Common stonechat",
+        "data": {
+            "population": [
+                73.645365,
+                59.8445545,
+                64.881527,
+                124.234386,
+                94.5353045,
+                79.2585875,
+                75.226189,
+                96.100263,
+                61.778837
+            ],
+            "years": [
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "2016"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Scomber_australasicus",
+        "common_name": "Blue mackerel",
+        "data": {
+            "population": [
+                66000.0,
+                56000.0,
+                50000.0,
+                61000.0,
+                79000.0,
+                85000.0,
+                76000.0,
+                73500.0
+            ],
+            "years": [
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1999",
+                "2000",
+                "2001",
+                "2002"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Scomber_japonicus",
+        "common_name": "Chub mackerel",
+        "data": {
+            "population": [
+                498085.10000000003,
+                455000.0,
+                477091.3333333333,
+                532820.0,
+                479853.3333333333,
+                509059.3333333333,
+                684000.0,
+                711500.0
+            ],
+            "years": [
+                "1980",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Sebastes_alutus",
+        "common_name": "Pacific ocean perch",
+        "data": {
+            "population": [
+                198453.39,
+                204309.53666666665,
+                209981.72333333336,
+                218379.71,
+                222962.79666666666,
+                230772.30666666667,
+                237916.62,
+                183386.069805
+            ],
+            "years": [
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003"
+            ]
+        },
+        "unit": "Spawning stock biomass/Millions of eggs"
+    },
+    {
+        "binomial": "Sebastes_polyspinis",
+        "common_name": "Northern rockfish",
+        "data": {
+            "population": [
+                133590.0,
+                134814.0,
+                136005.0,
+                135858.5,
+                136400.5,
+                135624.0,
+                134754.5,
+                133990.5
+            ],
+            "years": [
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006"
+            ]
+        },
+        "unit": "Total biomass (ages 3+)"
+    },
+    {
+        "binomial": "Sebastes_variabilis",
+        "common_name": "Light dusky rockfish",
+        "data": {
+            "population": [
+                19976.0,
+                20169.0,
+                20754.0,
+                22049.0,
+                25455.0,
+                24136.0,
+                21450.0,
+                21203.0
+            ],
+            "years": [
+                "1999",
+                "2001",
+                "2002",
+                "2004",
+                "2011",
+                "2013",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "CPUE (Weight/ (minute towed*tow length))"
+    },
+    {
+        "binomial": "Sitta_europaea",
+        "common_name": "Eurasian nuthatch",
+        "data": {
+            "population": [
+                130.41296499999999,
+                135.15830966666667,
+                146.05125133333334,
+                143.03697366666665,
+                134.42747066666666,
+                125.208256,
+                122.6817635,
+                130.115309,
+                219.955971
+            ],
+            "years": [
+                "1993",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2019"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Solea_solea",
+        "common_name": "Common sole",
+        "data": {
+            "population": [
+                15570.309090909093,
+                13449.554545454546,
+                15567.511111111111,
+                12792.022222222222,
+                12755.4,
+                14817.6,
+                15290.4,
+                15305.4,
+                16961.5
+            ],
+            "years": [
+                "1990",
+                "1992",
+                "1994",
+                "1995",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Spinus_spinus",
+        "common_name": "Eurasian siskin",
+        "data": {
+            "population": [
+                68314.2216,
+                40816.25023925,
+                8935.31864275,
+                17622.840163,
+                4485.2374535,
+                22076.28722325,
+                8228.6721988,
+                8115.404051,
+                4339.0123454
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1985",
+                "1986",
+                "1988",
+                "1994",
+                "1997",
+                "1998"
+            ]
+        },
+        "unit": "Index "
+    },
+    {
+        "binomial": "Sprattus_sprattus",
+        "common_name": "European sprat",
+        "data": {
+            "population": [
+                1409000.0,
+                693852.6666666666,
+                545017.6666666666,
+                568340.3333333334,
+                756000.0,
+                1174000.0,
+                1171000.0,
+                1121000.0,
+                1103000.0
+            ],
+            "years": [
+                "1994",
+                "1996",
+                "1998",
+                "2001",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "SSB  (tonnes)"
+    },
+    {
+        "binomial": "Streptopelia_decaocto",
+        "common_name": "Eurasian collared-dove",
+        "data": {
+            "population": [
+                108.580316,
+                108.306897,
+                109.661759,
+                115.749017,
+                104.331605,
+                104.60062,
+                133.556942,
+                113.458685,
+                216.884074
+            ],
+            "years": [
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1992",
+                "1997",
+                "1999",
+                "2001",
+                "2019"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Streptopelia_turtur",
+        "common_name": "European turtle-dove",
+        "data": {
+            "population": [
+                257.0,
+                240.505063,
+                223.111518,
+                223.997353,
+                193.211039,
+                180.7846755,
+                175.6013545,
+                167.710884,
+                152.6420855
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988"
+            ]
+        },
+        "unit": "Index values"
+    },
+    {
+        "binomial": "Sturnus_unicolor",
+        "common_name": "Spotless starling",
+        "data": {
+            "population": [
+                50.2489015,
+                55.682807,
+                55.9298055,
+                54.805293,
+                118.955779,
+                112.524112,
+                108.49721,
+                102.352213,
+                117.642007
+            ],
+            "years": [
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2008",
+                "2010",
+                "2011",
+                "2013",
+                "2015"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Sturnus_vulgaris",
+        "common_name": "Common starling",
+        "data": {
+            "population": [
+                602.4022727272727,
+                626.3731358636364,
+                711.52127,
+                786.1814773333333,
+                1300.4001096666664,
+                1291.2073659999999,
+                604.2484784000001,
+                738.9158444285714,
+                645.5894165333333
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1992",
+                "1993",
+                "1995",
+                "1996"
+            ]
+        },
+        "unit": "number of nests"
+    },
+    {
+        "binomial": "Sylvia_atricapilla",
+        "common_name": "Eurasian blackcap",
+        "data": {
+            "population": [
+                286.21911133333333,
+                211.88643528571427,
+                185.66451142857142,
+                199.62137428571427,
+                196.1081705714286,
+                180.0469395,
+                264.460275,
+                183.251225,
+                278.802948
+            ],
+            "years": [
+                "1995",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2003",
+                "2005",
+                "2006",
+                "2019"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Sylvia_borin",
+        "common_name": "Garden warbler",
+        "data": {
+            "population": [
+                236.81851566666668,
+                383.07926100000003,
+                179.545771,
+                154.50356125000002,
+                219.6477585,
+                183.0490775,
+                173.989765,
+                125.4750936,
+                139.532625
+            ],
+            "years": [
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2002",
+                "2006"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Sylvia_cantillans",
+        "common_name": "Subalpine warbler",
+        "data": {
+            "population": [
+                76.05662,
+                88.6279105,
+                75.955831,
+                69.282326,
+                75.75157633333333,
+                114.1056685,
+                106.871178,
+                118.8220415,
+                116.8771935
+            ],
+            "years": [
+                "1992",
+                "2000",
+                "2002",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Sylvia_communis",
+        "common_name": "Common whitethroat",
+        "data": {
+            "population": [
+                437546.11462525,
+                420054.4411105,
+                350041.613985,
+                400050.26599975,
+                457551.62728775,
+                465057.78835925,
+                483814.1552955,
+                408052.96408139996,
+                408055.6976536
+            ],
+            "years": [
+                "1981",
+                "1983",
+                "1984",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1992"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Sylvia_curruca",
+        "common_name": "Lesser whitethroat",
+        "data": {
+            "population": [
+                89.5,
+                102.19479799999999,
+                98.98364000000001,
+                109.096457,
+                95.31857,
+                90.355662,
+                90.142036,
+                90.164121,
+                88.401423
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1984",
+                "1987",
+                "2004",
+                "2006",
+                "2011",
+                "2012",
+                "2016"
+            ]
+        },
+        "unit": "Individuals per 100000 birds ringed"
+    },
+    {
+        "binomial": "Sylvia_hortensis",
+        "common_name": "Western orphean warbler",
+        "data": {
+            "population": [
+                41.98955333333333,
+                40.838802666666666,
+                44.18240599999999,
+                54.22415566666667,
+                61.015986,
+                70.97230400000001,
+                73.26191650000001,
+                81.905395
+            ],
+            "years": [
+                "2002",
+                "2003",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Sylvia_melanocephala",
+        "common_name": "Sardinian warbler",
+        "data": {
+            "population": [
+                3.0,
+                104.1901215,
+                62.0235235,
+                73.047479,
+                99.723338,
+                87.77753,
+                94.1686595,
+                92.5820935,
+                101.98960100000001
+            ],
+            "years": [
+                "1987",
+                "1990",
+                "1992",
+                "1994",
+                "1998",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Pairs"
+    },
+    {
+        "binomial": "Sylvia_nisoria",
+        "common_name": "Barred warbler",
+        "data": {
+            "population": [
+                100.0,
+                95.234238,
+                907.34676,
+                967.616025,
+                1077.221979,
+                916.109895,
+                822.664186,
+                973.972496,
+                663.975269
+            ],
+            "years": [
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1990",
+                "1993"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Trachurus_capensis",
+        "common_name": "Cape horse mackerel",
+        "data": {
+            "population": [
+                425549.0,
+                437702.0,
+                440192.0,
+                463844.0,
+                465720.0,
+                467640.0,
+                496529.0,
+                499662.0,
+                488226.0
+            ],
+            "years": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Spawning stock biomass (Thousand tonnes)"
+    },
+    {
+        "binomial": "Trachurus_japonicus",
+        "common_name": "Japanese jack mackerel",
+        "data": {
+            "population": [
+                139500.0,
+                128000.0,
+                138000.0,
+                153000.0,
+                142500.0,
+                127500.0,
+                125500.0,
+                135500.0,
+                151500.0
+            ],
+            "years": [
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "2000",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "SSB-MT"
+    },
+    {
+        "binomial": "Tringa_erythropus",
+        "common_name": "Spotted redshank",
+        "data": {
+            "population": [
+                684.0,
+                948.0,
+                1171.5,
+                1016.5,
+                916.5,
+                671.25,
+                929.8,
+                713.625,
+                626.0
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1987",
+                "1988",
+                "1998",
+                "2000"
+            ]
+        },
+        "unit": "Number of individuals"
+    },
+    {
+        "binomial": "Tringa_glareola",
+        "common_name": "Wood sandpiper",
+        "data": {
+            "population": [
+                105.09680925,
+                129.5773195,
+                123.49280250000001,
+                146.549764,
+                151.1759675,
+                143.99193300000002,
+                120.739051,
+                103.307168,
+                112.478259
+            ],
+            "years": [
+                "1992",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2011",
+                "2012",
+                "2015"
+            ]
+        },
+        "unit": "Individuals"
+    },
+    {
+        "binomial": "Tringa_nebularia",
+        "common_name": "Common greenshank",
+        "data": {
+            "population": [
+                312.0,
+                262.329929625,
+                478.273541625,
+                306.1069184285715,
+                461.73568124999997,
+                300.921845,
+                286.126867,
+                266.275244,
+                312.345324
+            ],
+            "years": [
+                "1982",
+                "2004",
+                "2006",
+                "2007",
+                "2008",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "breeding pairs or number of overwintering indiv..."
+    },
+    {
+        "binomial": "Tringa_ochropus",
+        "common_name": "Green sandpiper",
+        "data": {
+            "population": [
+                153.290572,
+                165.67783866666667,
+                119.663051,
+                170.252732,
+                195.6892515,
+                147.316015,
+                165.83359000000002,
+                163.0490385,
+                191.141163
+            ],
+            "years": [
+                "2007",
+                "2008",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Maximum observed during the spring migration "
+    },
+    {
+        "binomial": "Tringa_totanus",
+        "common_name": "Common redshank",
+        "data": {
+            "population": [
+                2101.6544285,
+                4140.646116166667,
+                1694.184888,
+                2461.500367,
+                3398.561525,
+                2633.886242,
+                3304.8357265,
+                2805.53734,
+                2821.4441995
+            ],
+            "years": [
+                "1982",
+                "1985",
+                "2009",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Troglodytes_troglodytes",
+        "common_name": "Northern wren",
+        "data": {
+            "population": [
+                45.020055130434784,
+                51.83094191304348,
+                43.29328666666666,
+                42.621939086956516,
+                42.603002499999995,
+                83.88068949999999,
+                80.3779855,
+                77.9075205,
+                157.803742
+            ],
+            "years": [
+                "1992",
+                "1993",
+                "1998",
+                "2000",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ]
+        },
+        "unit": "Annual Index"
+    },
+    {
+        "binomial": "Turdus_iliacus",
+        "common_name": "Redwing",
+        "data": {
+            "population": [
+                198.8,
+                133.56261225,
+                135.66451,
+                130.6841635,
+                103.1114485,
+                107.72482620000001,
+                117.29644779999998,
+                104.47557139999999,
+                109.991426
+            ],
+            "years": [
+                "1980",
+                "1983",
+                "1984",
+                "1985",
+                "1987",
+                "1993",
+                "2001",
+                "2002",
+                "2005"
+            ]
+        },
+        "unit": "Number caught in net "
+    },
+    {
+        "binomial": "Turdus_merula",
+        "common_name": "Eurasian blackbird",
+        "data": {
+            "population": [
+                81.05783333333333,
+                82.42496233333334,
+                80.462946,
+                86.59073733333332,
+                85.82202833333334,
+                85.84593533333333,
+                87.095145,
+                77.37208625000001,
+                116.614992
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1989",
+                "1993",
+                "2000",
+                "2019"
+            ]
+        },
+        "unit": "Mean monthly count"
+    },
+    {
+        "binomial": "Turdus_philomelos",
+        "common_name": "Song thrush",
+        "data": {
+            "population": [
+                94.196625,
+                84.99568550000001,
+                83.19897775,
+                92.69215775,
+                81.99549275000001,
+                88.0620222,
+                80.90554183333333,
+                84.79833599999999,
+                103.400475
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1995",
+                "1998",
+                "2001",
+                "2019"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Turdus_pilaris",
+        "common_name": "Fieldfare",
+        "data": {
+            "population": [
+                12562.666666666666,
+                5667.467022,
+                30061.665501666666,
+                7143.9664835,
+                5003.7191555,
+                3355.88734475,
+                3852.18341525,
+                3341.8796148,
+                2947.7208804
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1987",
+                "1988",
+                "1993",
+                "1994"
+            ]
+        },
+        "unit": "Number caugt in net "
+    },
+    {
+        "binomial": "Turdus_viscivorus",
+        "common_name": "Mistle thrush",
+        "data": {
+            "population": [
+                98.0,
+                142.340676,
+                170.041066,
+                175.9443185,
+                102.503913,
+                124.53927250000001,
+                104.7962805,
+                150.47924799999998,
+                115.8940385
+            ],
+            "years": [
+                "1980",
+                "1981",
+                "1982",
+                "1984",
+                "1988",
+                "1994",
+                "1995",
+                "1996",
+                "1997"
+            ]
+        },
+        "unit": "Index"
+    },
+    {
+        "binomial": "Ursus_arctos",
+        "common_name": "Grizzly bear",
+        "data": {
+            "population": [
+                1120.142857142857,
+                1047.375,
+                1073.5555555555557,
+                1068.4545454545455,
+                1369.75,
+                1548.857142857143,
+                2185.8,
+                2250.0,
+                1308.25
+            ],
+            "years": [
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ]
+        },
+        "unit": "Estimated number of individuals"
+    },
+    {
+        "binomial": "Vanellus_vanellus",
+        "common_name": "Northern lapwing",
+        "data": {
+            "population": [
+                6504.0179422142855,
+                5962.4912561111105,
+                9348.391591965517,
+                7784.4529874827585,
+                6200.136905,
+                5053.016582227273,
+                23917.7883625,
+                8207.132781600001,
+                4223.7984296
+            ],
+            "years": [
+                "1994",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2006"
+            ]
+        },
+        "unit": "Number of breeding pairs"
+    },
+    {
+        "binomial": "Vulpes_vulpes",
+        "common_name": "Red fox",
+        "data": {
+            "population": [
+                44.49125,
+                78.0,
+                68.0,
+                68.0,
+                81.0,
+                70.0,
+                80.0,
+                72.0
+            ],
+            "years": [
+                "2006",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+            ]
+        },
+        "unit": "% of scent stations visited each year. Does not..."
+    }
+]
