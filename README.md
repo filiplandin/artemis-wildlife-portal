@@ -12,8 +12,8 @@ Full-stack LLM-integrated Wildlife web app developed by a team of 8 through 5 sp
 
 ### Key Learnings
 - Applying agile sprint management in a real-world setting: including breaking down user stories effectively, conducting focused sprint meetings, and **pivoting** when what seemed like a great idea turned out to be practically infeasible.
-- Communication and cross-functional collaboration: how to take **responsibility for areas where you lack techical expertise**.
-- Strengthened skills in collaborative problem-solving (we did not always agree), leveraging team discussions to **resolve technical debates** and API integration challenges.
+- Communication and cross-functional collaboration: how to take responsibility for areas where you lack technical expertise.
+- Strengthened skills in collaborative problem-solving (we did not always agree), leveraging team discussions to resolve technical debates and API integration challenges.
 - Improved practical proficiency in frontend and backend development, particularly with JavaScript frameworks (Vue.js, Node.js, Express.js) and Git version control.
 - Developed a rigorous approach to code quality through regular pair programming sessions and **structured pull request reviews**.
 
